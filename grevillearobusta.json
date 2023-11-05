@@ -1,0 +1,33 @@
+﻿{
+    "title": "Chavukku",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Silver oak/ Silky oak"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Grevillea robusta A.Cunn. ex R.Br."
+        },
+        {
+            "title": "Family name",
+            "description": "Proteaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "It grows faster and used as timber yielding plant, grown for beautification, honey. Plant is used as shade trees in the cash crops like coffee and tea plantation. Leaves are good substrate for oyster mushroom cultivation."        
+        }
+    ],    
+        "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHcot9erCid7Kd9Bus_D5ZvO4qbeGkgpLZ14LyRHBW7ngIVAo32HoG_lgwIDlrfMtUz4Lo4UwJoBk7C8dfUFH3CRdTUM0yYlQ2jCDJZZdRemHE7iU_yZL8YnJ-SCarTObE82fUhq4EYbmv1PRght4pl8=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdKEK8AEsIVaf0XP6BtfFOZA1ngSCmytRlVWzvLYrTWM1lnVCpSHOc9K4pOiVXHLKAh6EF398K1kS3fCkUSDKPof33qja-c_Dc2jrcoFK8YN_Sc9s4aK9TjyPc_FNtXFIx709xQIXK6StGhL3cwJi26=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

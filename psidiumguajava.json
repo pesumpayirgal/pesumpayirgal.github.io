@@ -1,0 +1,38 @@
+﻿{
+    "title": "Koyya கொய்யா",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Guava"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Psidium guajava L."
+        },
+        {
+            "title": "Family name",
+            "description": "Myrtaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Medium sized free produces edible fruit. Fruit is rich in vitamins A, C, iron, phosphorus and calcium and minerals. Metabolites found include: phenolic, flavonoid, carotenoid, terpenoid and triterpene. Plant has antispasmodic and antimicrobial properties in the treatment of diarrhoea and dysentery. Also used extensively as a hypoglycaemic agent. It has antioxidant, hepatoprotection, anti-allergy, antimicrobial, antigenotoxic, antiplasmodial,cytotoxic, antispasmodic, cardioactive, anticough, antidiabetic, antiinflamatory and antinociceptive activities. The phenolic compounds assist to cure cancerous cells and prevent skin aging before time."        	
+	    }
+    ],    
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfeBXG7NRE7YwT1nF-1hjPxM-Q7Rxs3bQQM8ypNUFdV9wLCXZhPNhDz6oo8Y3wJPGuYwIITglnJA0oNWs46mmWDkJZa4SD2eEm9qZ_KsT_vVGW25vGrj2XTOYpYyqjBqNYHHG42pxSZlIjJn40wBXl8=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHem9zvOirWwnWzQbWPkq3TCGrrXzMlkJHukPkSeYL2iXRxEXUIJWR8vzUQOUz3Jdpwf-lyLSDH2-QeD_4PKI5TOxr7hEjQXSYwwaefotvLgPRZUxthZnKdB266gpV0OW9nDc56sLeZiB49qYGsUhAEB=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHeIrvascgs9sW7MJ7Bx5zaVzi8-lEDv2h850gBA_JvAcIdndE6aM4CuKfcMurrpojujqn5yQ9FzC17BZo_1mNsIQq13aYZv5W7E87WVRqjM6wUxXpdR1B_TdFHfqysbG_vABhZALQAEdlFj60J5rKqV=w1040-h780-s-no?authuser=1",
+            "title": "Fruits",
+            "description": ""
+        }
+    ]
+}

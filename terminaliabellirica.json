@@ -1,0 +1,32 @@
+﻿{ 
+    "title": "Thaandrikai தான்றிக்காய்",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Bastard myrobalan"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Terminalia bellirica (Gaertn.) Roxb."
+        },
+        {
+            "title": "Family name",
+            "description": "Combretaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Fruits are used as condiment and has medicinal value. Traditionally used for relief in a cough, asthma, indigestion, dental problems, sore throat and wounds. It has glucoside, tannins, gallic acid, ellagic acid, ethyl galate, gallyl glucose, chebulanic acid. Medicinal activities include: antisecretory, analgesic, antihypertensive, antidiarrhoeal activity, antimicrobial activity antidiabetic, antioxidant, antiulcer, antipyretic, hepatoprotective, anticancer, angiogenesis, antidepressant-like and anti-urolithiaticactivity."        
+		} 
+    ],   
+	"images": [        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHcZbrx-xjjHyfFGtA0E4MW6CtGKEHH4n6uawjn7rdGgzGSqEZ8Jvn3ZK48-bY_Xd1W1U_CWwlnmo5qbeHckoaehhn9cXHfz76z9zZVR9341ZixE0h_8bfCg-967Iy3dIsVTUQ4JzArN8VE6KsqYEsMj=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHf8pxkKmDEVWCZ4luSrLFs_RIzzdCYXKc60ToKgQnfR4nJo9R-Gjx4HqqhTF4KSHsN4vDQOnjN3izUEEy-cAmvQtVm1F2Y9HH9J-txap6wo3z7NbiY5w_QT8y9PLCsbBnrn_MHO02Uu0j7O8_J3sdfH=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

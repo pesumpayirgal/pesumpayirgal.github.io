@@ -1,0 +1,38 @@
+﻿{
+    "title": "Manthaarai மந்தாரை",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Bidi leaf tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Bauhinia racemosa Vahl."
+        },
+        {
+            "title": "Family name",
+            "description": "Caesalpiniaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Ornamental and medicinal plant. White flowers are showy. Leaves are used for packing foodstuffs. Used in traditional and allopathy treatment of diseases. Plant prevents soil erosion. Bark as well as leaves are sweetish and acrid, used as a refrigerant,astringent, in the treatment of headache, fever, skin diseases, blood diseases, dysentery, and diarrhoea. Bark decoction is useful to wash ulcers. The matured leaves are used for making Beedi (Indian cigarettes), whereas the young leaves are used as greens (side dish) by the Tamilians (Tamil Nadu, India)."
+        }
+    ],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHcLOQx3AOKzui0ZlwlZ56FJMeP1PNSkwCpx5-7T074CNi9DQKP7iw1Q2rkT38i3lzO6rzRMVQ4getGjnutjpWLDuTvkPkjyhOpP6zTrM7ErsDs8fmapXfrACAwRdRRoG0HGwzX3WGIlrtYa1dBNrpso=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHeDERQzEz7qWZiltpodA4InH7lghkYcI3bPF24hAaXHrgDKtq8ScBRJ0xX7a3iQHOoTFh_pv3hEA4zGgFSqfEOJKI4skwAa_uZeysWFHGluRYpGTfcXZQqpUd61PapT0Xut12qCqrmZSSheREAvjqf7=w1040-h780-s-no?authuser=1",
+            "title": "Flowers",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdrML1vc7gEVd0tmfO8U5strqem8Krj2mgt7Igu6u3npnV6IXozXco_ZmrG1psWe7PDCVbBUiLwQrv_nTZfwKXeFGPuMz3eKN2Yl6dG3Bu1BCgsj5vmF0sLu2r2ITQUfJZXU9ZPxUihE4ki50vDiMQw=w1040-h780-s-no?authuser=1",
+            "title": "Fruits",
+            "description": ""
+        }
+    ]
+}

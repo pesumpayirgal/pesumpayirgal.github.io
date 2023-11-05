@@ -1,0 +1,33 @@
+﻿{
+    "title": "Eetti/ Sivappu chandanam ஈட்டி/ சிவப்பு சந்தனம்",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Rose wood tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Dalbergia latifolia Roxb."
+        },
+        {
+            "title": "Family name",
+            "description": "Fabaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Naturally found in India and Indonesia. Its timber is highly priced. Mainly used for making musical instruments, carving, furniture. Bark tannins are used against diarrhoea, worms, indigestion, leprosy, as appetizer. Leaves are used a cattle fodder."        
+        }
+    ],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHeqK50Zbj_ljqOJGdlxtTLZHCHic1dNKxyE0dZWsgUbsV4bAf9RdoG5zRukQD3GeNkPduQ1YrJD5_dwrIAatmpU1wAYQaGko59JjF_P10XOfEIRS9pO6OgyAMfTqwGKESK2kuYVS2xFR3Fc3UNTZTtk=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHcdy661T7dCTEIhpb5kENA3fMHYDtzTfX1Zsn2sOwZOSOlK3fKaykPFIcZ_WwQaqxD1xWfV2PzHvblTdB8BeodAoPSU2na8yb_6v1eodvaYh5aMH99IubgX_UmsWMIc9XPHJLLQgfMVOEutyvPX7nzh=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

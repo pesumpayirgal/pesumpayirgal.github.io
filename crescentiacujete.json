@@ -1,0 +1,38 @@
+﻿{
+    "title": "Thiruvottukai திருவோட்டுக்காய்",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Calabash tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Crescentia cujete L."
+        },
+        {
+            "title": "Family name",
+            "description": "Bignoniaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Grown as an ornamental plant in gardens. The wood for tool handles, ribs in boat building, cattle yokes. The epicarp is used for making cups, containers and musical instruments. It reported to contain high content of the minerals: sodium, phosphorus, manganese, iron, zinc and copper. The fruit possesses saponins, flavonoid, cardenolides, tannins, phenol and hydrogen cyanide."        
+        }
+    ],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHeqcUTfkE5VSrnvGINqC4U8TXu-5hfxwNYxCA1pgQZcq_1o2mkawsN3i1l-m5EwbVvfOdVS4JHSAx6iLHV6R0luAWP5dP0MaRQPiWaIw48clNpAlWtN9zhtvp1NC8PA3WtpfT66H2dbgoG-8dIojTNw=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdx1FarP5yB_H9CMsHHcJWOKRpSQBSTMYKv0WmX1xCJzIR7HsX4qtEkSPRMqNbNio-knc9xAF-v1uCShUKEGCnv82jnKjWBQ6FLnY8Ib2SZu6bYyWNyswK2sGybDYlGepzF3zBDMzscnlTqY8RP9Xjg=w660-h881-s-no?authuser=1",
+            "title": "Flower",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHcJvtyBOURYFPb3Z1xmOFulc5P5j6_-amQimnlE29-qPdb3L-k9khfnNag5FlbhwcFDWr7pZtlFCRrlwd-LsvUVKM_vm1TmKAXkgjVyiKafVWzbvTcB5HTp7XnsFEq8M5kgmKVJocB9hjSMgBljtD9z=w660-h881-s-no?authuser=1",
+            "title": "Fruit",
+            "description": ""
+        }
+    ]
+}

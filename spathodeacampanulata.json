@@ -1,0 +1,32 @@
+﻿{
+    "title": "Patadi பட்டடி",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "African tulip tree/ Flame of the forest"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Spathodea campanulata P.Beauv."
+        },
+        {
+            "title": "Family name",
+            "description": "Bignoniaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Beautiful reddish flowers are produced. Grown as an ornamental plant. Useful in checking soil erosion. Wood presents a good source for paper industry. Bark is useful in ulcer and skin related diseases as well finds use in gastrointestinal disorders."        
+		} 
+    ],   
+	"images": [        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHc-R8W7ARtV37wVsMyF2gw_gjyNZ8k_BsOIrG7TckXE_57b7egFQPZaGL5wQxyHMHE9P_0sg98k98JlCVe9WiijboNXIk3CTIaWPjjRTPO7p0TSkYGA9rQPA7Bdl-lyZuH4JvVVEjrj1rGBnTeDpv2f=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfzwoDnTu9lLaQqztf40KNjZiU27jAFGZ68yhvJxD2n2M4XkvqXwF8115Ad7DfWvbm6wYNX-U-qgvqzKHkirdIUgnrspu7LwfkQvFl6LwqlIVpCDFNICVauGsfVSu21hPP-xy-DjO5Kzp8pcgh5IUAf=w1040-h780-s-no?authuser=1",
+            "title": "Fruits",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+﻿{
+    "title": "Karukavi/ Vadathalla",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Sicklebush/ Chinese lantern tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Dichrostachys cinerea (L.) Wight & Arn. ssp. cinerea var. cinerea"
+        },
+        {
+            "title": "Family name",
+            "description": "Mimosaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "An Ornamental tree. Grown for its dual-coloured flowers. It is used for the treatment of diseases like headache, toothache, dysentery, leprosy, coughs, syphilis and also as diuretic, anthelmintic, purgative, laxative, etc."        
+        }
+    ],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHddImSxnNvqxvo3hKZ9zGcSJSMpqwgvhpRflP1KBvVxEmLTsR4PZZEgLi002FsURi5cfxhDa4JnRHSKUSqJbJLgw0rtr43G1ZxF4a0cpz2ajX3Ie9yRj2hTjuf4Im2Sg4Jntb8JsTo_PZiv1wxONqWC=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfm569L64AA30SVj8jCNRWA3tRz0Sfy31HgtgQPhTnfJHA4tz3_T0m8oQzuEsqmooM6wMiDhGrA_rAEmRZ1u9VVDe-oK0f5APvYRXpYDAs8NclL94D7awSdpr4EWGtJposHPLRVKWJjyn3Tu8b4EBrR=w1040-h780-s-no?authuser=1",
+            "title": "Close up of branches",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHd44P_K75GNlhPU7ukcZAgbE3QfkQ6uqCNuN48QGWtZ-N-uhWK6klUdc7ujhNnIgDn7utrTROMPQRaROaIIqN-tYPfVqlQEjOCjn7em2I2AsV-iFpE7UGyVe4e-GKPOc9K89vHrlDd8F2sDAc0OQTeY=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

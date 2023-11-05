@@ -1,0 +1,38 @@
+﻿{
+    "title": "Iruvatchi இருவாட்சி",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Yellow bauhinia"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Bauhinia tomentosa L."
+        },
+        {
+            "title": "Family name",
+            "description": "Caesalpiniaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Ornamental- flowers bell shaped with large yellow petals. Extracts of the plant's roots have in vitro antimicrobial activity. Extract from leaves contains flavonoids kaempferol 3-O-rhamnoside, quercitrin, and myricitrin as well as methyl gallate. Analgesic activity is found due to the flavonoid quercitrin as well as its antispasmodic effects. It also has antioxidant property."
+        }
+    ],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHeA0FcPR-UGBfjsPSPhoJ9v0azyqEml4gXvGHRQIMNJt0GhBzEANlTW3qKSaQE6NBqQgKfwQem1cWycbfhJojrv5k0f5cKQf0dKPNc_GO3QIVRtJS6tu6CaEEBT-s0tsER9rZbdYdxRJlxD2PG9PgIR=w1040-h780-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHcdlr3LjabLc9EAcFz_yrz1l3UXqGo2qgu43lUR4YPJr58ilr-A8zbInMwGWt_ztAAqfn9wSNJF_WTyDhimdIJDUO7QH_376sIBx1WT_bMZy6O5pEmHPLytNKruhXT_oMT3hQVX3HdninGiWTuIUfCE=w1040-h780-s-no?authuser=1",
+            "title": "Flower",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfFWQlmYp8Ffld04oSbboASB26IYQPzIclP5g7Ll6RrYs7YpWPZYx1ZBCU9MvBzWAj8S0xUDreZyMTMDOgG89nsGNUGVKJixcNOI7g6f3in0qJQemia1F2TmLQm7gvVFf74rKMqbrG5uoOMMI5OLsBP=w1040-h780-s-no?authuser=1",
+            "title": "Fruit",
+            "description": ""
+        }
+    ]
+}

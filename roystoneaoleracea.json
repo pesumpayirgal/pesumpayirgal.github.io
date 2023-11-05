@@ -1,0 +1,32 @@
+﻿{
+    "title": "Raja panai ராஜபனை",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Imperial palm/ cabbage palm"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Roystonea oleracea (Jacq.) O.F.Cook"
+        },
+        {
+            "title": "Family name",
+            "description": "Arecaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "An ornamental palm tree. Grown in parks, gardens, roadside for its typical shape of its trunk. Seeds are the source of biodiesel."        
+		} 
+    ],   
+	"images": [        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHe-G-CorRWpIbXej-j70yeruMopSdigDDIA3-17U3S0RQbE8XQJ84D0Z90tXKwu_PnT_d8Qhq3AIO3tdwc9MX2h_8ooxdE7Ehln-8P2cogD1tF9M92gpdpicyVTwNemZa9hdmqn3yx1D1V5wFL2rIA5=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdcQsOBb89Nh2uz0K-dzrmtsaik9EfSZMIVQ97RIAGBxA6qmw7UID3HqJx2jeyp8BHIjiMWFNSlQdLWmbbTFZqgpK4EInI6_x4YxCQ1GBsAbo3dG0yrAfxomHJ2mu-Aot5UP4WJLb7_ygqUpvsxbkdM=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

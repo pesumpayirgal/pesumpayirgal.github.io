@@ -1,0 +1,38 @@
+﻿{
+    "title": "Pavalamalli பவளமல்லி",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Night flowering jasmine"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Nyctanthes arbor-tristis L."
+        },
+        {
+            "title": "Family name",
+            "description": "Oleaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Flowers are having aesthetic value. Extracts of leaves, fruits and seeds contain phytosterol, phenolics, tannins, iridoid-phenylpropanoid glycosides, saponins and flavonoids. Flower infusion has diuretic activity. Flowers contain nyctanthin, flavonoids, anthocyanins and essential oil similar to jasmine. Crude extracts are used in treating various diseases in traditional medicine."        
+        }
+    ],    
+    "images": [
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+﻿{
+    "title": "Chavandalai சவண்டலை",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Trincomalee Wood"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Berrya cordifolia (Willd.) Burret"
+        },
+        {
+            "title": "Family name",
+            "description": "Tiliaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Leaf of this plant contains f alkaloids, carbohydrates, glycosides, proteins, tannins, phenols, flavonoids, terpenoids, cardiac glycosides, and steroids. Wood is valuable as luxury grade of timber.  Grown also as an ornamental plant."
+        }
+    ],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfB8AuC-OvGRV9KspV-BJQi7kxFlYxmS57EKG-kbsLvnZbsUzdS9Uii6PqDdoHnnoLkmTQNIaSDlAJu9L9GZL2CnvGCx1pW7lCZde66Jdo31pQrcJXgdegmVtsrTkyi8K491ga92Cti-ywwjo-5M0tx=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHeQpQzSfFURiJtCQQYdR_NtwMQaGhjTpn5el-OH3B0hGL3CefQyuQCWbrA6ywF8WidjMgjdwEOjrhjkg0q8ZseZEyTRSQclx-xyOL8eEYK203SOWGluuD6NHN8G9d4-0GKO8prVC3f56HgGcjwQMgkF=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHcNR_JpY6R6BFLIfrd0IERcm8s6U_mfPaaJYBfrIoGiyw_tewfCZIO1QwZbUK-BsyzIx6264ndo9ktVz1G6exzC3GuhynSSYLnxgO7Hz3dq5K5xEsHJKzrta36FC3oMSf7a2jtbyTaX6xJAfm3fZybI=w1040-h780-s-no?authuser=1",
+            "title": "Fruit",
+            "description": ""
+        }
+    ]
+}

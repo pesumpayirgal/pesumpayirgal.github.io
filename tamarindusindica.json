@@ -1,0 +1,32 @@
+﻿{ 
+    "title": "Puliya maram புளிய மரம்",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Tamarind"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Tamarindus indica L."
+        },
+        {
+            "title": "Family name",
+            "description": "Caesalpinaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Fruit pulp is edible and used to make chutneys and curries. Fruit pulp has a sweet acidic taste due to tartaric acid and reducing sugars. The pulp is used for seasoning, in prepared foods, to flavour confections, curries and sauces, and as a major ingredient in juices and other beverages. In addition, it contains phenolic compounds, cardiac glycosides, tartaric acid, the mucilage, pectin, fatty acids and As, Ca, Cu, Fe, Mn, Mg."        
+		} 
+    ],   
+	"images": [        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHegMSaBsSnuiKEDsbmxEpuKd0npD0LBaGU4umwrphBopuA1S4A1HRjE9btEtF7kk38m30KxnT95r2WzeOFKH7HkxhnpU3WpGSKn4nPplbtxsuDYD5LizCVTbWIehFLI1HC981U2I6e6F7nD55OlQtc_=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfiqs7FzQ_AYwnx57oniL-nxpub_uJUoNlo8xWg2lz5h_j1UwnxPI-zapyoN2roIQ1JJUJ9_WHP7-VEcTzJ8kB-fGWi9WKMP7vpejmnhhSu8rQ_AR6L2p2E2FAbRL77XepJKIuyTcP0qMpqv3IKsNHF=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

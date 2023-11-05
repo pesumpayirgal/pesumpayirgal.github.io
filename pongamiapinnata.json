@@ -1,0 +1,33 @@
+﻿{
+    "title": "Pungamaram புங்கமரம்",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Indian beech"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Pongamia pinnata (L.) Pierre"
+        },
+        {
+            "title": "Family name",
+            "description": "Fabaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Grown for its shade. Flowers are used as composts. The seeds are used to extract renewable source of energy and used as biodiesel. Oil is used as a liniment for rheumatism. Fruits and sprouts are used for abdominal tumours in India, seeds for keloid tumours in Sri Lanka. Leaves has antibacterial, cold, cough, diarrhea, dyspepsia, gonorrhea, leprosy properties. Roots used for cleaning gum, teeth and ulcers. Bark is used for piles. In traditional systems of medicine, it is used as anti-inflammatory, anti-fungal, anti-plasmodial, anti-nociceptive, anti-hyperglycaemic, anti-diarrheal, etc."        
+	    }
+    ],    
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHek0iiI9awEMFiN7ruAQb1pKbsx4GYw8AyVNWUWYZPCHlQ-9VQmotpMeFNjfJMHae9KpDK1ITtid30KYVGchjrd1tRExI5dYzRGgkinEDuXhHEzrzJBlT3ZrdOKPnL866VRJfTo_52aJyKKtMqLQOKJ=w1040-h780-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdJq0KV0qWH9O0g5sRvzJRFnWondAUkv0jdGaS4MwKMed7F4ZDol0PqfNIIzEcn4L67mA7GxpFeDdqZBm76B_wG7Z5EpqNHeZ1FGZkvfSqLgkBILqEhARdgleio6BT1Yei_OAXEmqNaPv87jZhKZ9ZI=w1040-h780-s-no?authuser=1",
+            "title": "Flowers",
+            "description": ""
+        }
+    ]
+}

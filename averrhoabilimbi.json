@@ -1,0 +1,38 @@
+{
+    "title": "Pulichaikkai புளிச்சைக்காய்",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Bilimbi"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Averrhoa bilimbi L."
+        },
+        {
+            "title": "Family name",
+            "description": "Averrhoaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Cultivated for its fruits; used in making curry. Used in folk medicine for the treatment of diabetes mellitus, hypertension, and as an antimicrobial agent."
+        }
+    ],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHcupteYf80Y6wu3bb7kA5YuLNhJkFmsM_EnZJEv-KLGTd9TOn9r_eNajDtsyjAsdvaV3X0yD__f_xYcITJRTbMuQQN_AHY_6K_-NNqOw9WTZursTY5ej4rSA_da9K5c8Ctn_DY0iNqWciq9JY3Z2yYG=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfl1GKEedvzG7HHgVMvt9eTCkS5vo9TjewOubuGsrjcJb5NO5z8RnAlutGWawiEu7cubFp2zvLl-nyTort5ihTfaWLC32hpWusFgaxZ72rAKKdmlBJaNTYS99TYVxHFmTgkM33eGeUj9wyG6prj755t=w1040-h780-s-no?authuser=1",
+            "title": "Flowers",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfgERLmyCJ7V9m7ecGlcsizppjSP9ZXCqIY-xxO70GBSE7EOpSihsem_IskSEl89JWObZetCV8hrvme6T9XaCb_udUvgKOMUjciAdzHLBplkNMMuQbT9EGD7U9qypQVVbJJeQb2eg3ZD5HYYm8ery2y=w660-h881-s-no?authuser=1",
+            "title": "Fruits (unripe)",
+            "description": ""
+        }
+    ]
+}

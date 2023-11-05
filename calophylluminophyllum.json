@@ -1,0 +1,33 @@
+﻿{
+    "title": "Punnai maram ",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Mast wood/ Beach calophyllum"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Calophyllum inophyllum L."
+        },
+        {
+            "title": "Family name",
+            "description": "Clusiaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Grown as an ornamental plant. Leaves are used during Hindu Festivals. It is grown for its hardiness, shade and  shelter in streets,  gardens, parks and  coastal area. Wood is a prized timber used for boat making. In Hawaii it is  traditionally used for making food vessels. Oil form nut is used in traditional medicine, varnishing, cosmetics, lamp oil, et. Flowers are fragrant and used asperfume. It is tolerant to wind and salt spray,hence it is grown in coastal area."        
+        }
+    ],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHeUJAJQpj8izcKyqqCKuJ68nmAJekaq37E2G0JD9jk1-Fv40mu1N5rWzRgCWay9XOHO9Xmwa_kk5mdVCAp8kYK6UlzglD9uBbmgs8QxHM3a0nIIS-hUkBpAlmoI2TUXuZyT24-Z1qrm7nsAQe69oJVp=w1040-h780-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfnnWxgCvO-r1HuP7yQqJH_xgljaaBh6msuhlxcsm4FR43yx7A5p_UzYoZbvhyR7o_RSlL_SAyft_NIh8VG5OpNdFLDSzB5JLL6Ytu4KpLRIa4RqAPlxWbO1xjfiXsSv5A9XTzhzXCbbF8pRx2TSIY7=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

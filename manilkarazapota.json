@@ -1,0 +1,38 @@
+﻿{
+    "title": "Chimaiyiluppai சீமையிலுப்பை ",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Sapota tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Manilkara zapota (L.) P.Royen"
+        },
+        {
+            "title": "Family name",
+            "description": "sapotaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Fruits are edible- sweet in taste. Phytochemicals possess anti-inflammatory, anti-arthritis, anti-bacterial, anti-fungal, anti-oxidant, anti-tumour and anti-diabetic activities. Leaves and fruits lowers the levelsof glycemia, insulin, leptin, cholesterol, and triglycerides and augmented levels of HDL-c in animals. Helpful in the prevention of obesity, diabetes, dyslipidaemia, and their complications."        
+        }
+    ],    
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdKlP8KxpmE9VSzyo7Pdk7jooxRAarrHeLBNZsn0pGbjaqmu2eQ4gkslxQm5txc4Utu4fcXO8pksWZsqrs37nKfa4B54gPg5Z4cmsCWZo_CNKK_B-TTb4Z9HZs17axVK3G2nUPqoWZI2jSM1n7VB_BP=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHft2BfUxUF-UguIfe6yEdDwtTU_EY4HwkSAFEzZj7QlNZRU89KlFmNefCrD38ISMzvhfU6g7PSFORl_iZlOPloZ8MdO44KmBAc54wORPj_0YtiSJVvt6hxO8TTV7NT_2uEU0YbhO8yThqEAyWWzMEqZ=w1040-h780-s-no?authuser=1",
+            "title": "Flower",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHcgdbom5YuQ9SNNJdyID4LZYPHkg61c2i0FRektJ9XBKBVSH_V3mlyfsjuK_uB6zb_JT5PBQ8sKffN9wOgtYrMxsaQZzVz1GcPOxxp7utdmw3VmAz-4ILu1BWbHSukBdznhhNOiSFhI-kaXjqkbc3dS=w1040-h780-s-no?authuser=0",
+            "title": "Fruit",
+            "description": ""
+        }
+    ]
+}

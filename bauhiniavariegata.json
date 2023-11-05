@@ -1,0 +1,38 @@
+﻿{
+    "title": "Manthaarai மந்தாரை",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Orchid tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Bauhinia variegata L."
+        },
+        {
+            "title": "Family name",
+            "description": "Caesalpiniaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Ornamental plant. It is used as a traditional medicine by the indigenous people of the Indian subcontinent. Flowers are showy and grown as an ornamental plant. Many parts of this plants contain phytochemicals like flavonoids, tannins, kaempferol, terpenoids, saponins, cardiac glycosides and quercetin."
+        }
+    ],
+    "images": [
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        }
+    ]
+}

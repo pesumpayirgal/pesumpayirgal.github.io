@@ -1,0 +1,33 @@
+﻿{
+    "title": "Kattu naarthai காட்டு நார்த்தை ",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Citron"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Citrus medica L."
+        },
+        {
+            "title": "Family name",
+            "description": "Rutaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "This medicinal plant possesses analgesic, hypoglycaemic, anticholinesterase, anticancer, antidiabetic, hypocholesterolemic, hypolipidemic, insulin secretagogue, anthelmintic, antimicrobial antiulcer and estrogenic properties. Fruit is used for making pickles."        
+        }
+    ],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHelG2ZIoe8e0nBndw7tyiY1h2ER9eArVy1ADxjTMQTpQwepGI9umMrP17klXbq0kU2p8TuSayCKJPGL4SzqsHD1O2zVXB49IswvPit6dEerix85uFL36NvaKaEFk2ANKLgK82-G1N8N6xGNAEa3NbeL=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdhYw7dTpyE9eDC_S5nfDUHGIvDl8m8buevBH6fLOMBD7RyC1h1SXr4mx8jIpvlwaGwzmo_-rs4QcPz8aMa-ZVoEHCnKBAPSNj0IvJt9K0vy-NeJFRQr9esujdi5hV3C_-DAPEjQOckVQ_dX29GQ8vo=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

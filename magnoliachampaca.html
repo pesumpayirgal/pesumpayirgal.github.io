@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display Text File Content</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'DM Sans', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+           
+            color: white;
+            font-size: 2rem;
+            margin: 0;
+        }
+        .header {
+            background-color: #4CAF50;
+            padding: 1rem;
+        }
+
+        #pageDescription {
+            font-size: 1.1rem;
+            margin: 1rem;
+        }
+
+        #imageContainer {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            grid-gap: 10px;
+            margin: 0;
+            padding: 0;
+        }
+
+        .imageCard {
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+            margin: 10px;
+            padding: 10px;
+            transition: all 0.3s;
+        }
+        .imageCard:hover {
+            box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.4);
+            transform: scale(1.05);
+        }
+    
+        img {
+            max-width: 100%;
+            object-fit: cover;
+        }
+        .qr-row {
+            display: flex;
+        }
+        .qr-container {
+            padding: 2rem 0;
+            border-top: 1px solid #e9e9e9;
+            background-color: #f5f5f5;
+            margin-top: 3rem;
+        }
+
+        .qr-content {
+            margin-left: 2rem;
+            display: flex;
+            align-items: flex-start;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .qr-title {
+            font-size: 2rem;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .qr-description {
+            font-size: 1.1rem;
+            margin-bottom: 10px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0px auto;
+        }
+        .qr-card {
+            flex: 1;
+            background: #fff;
+            padding: 2rem;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+        }
+    </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+</head>
+<body>
+    <div class="header"><div class="container"><h1 id="pageTitle"></h1></div></div>
+    <div class="container">
+        <div id="contentContainer"></div>
+        <div id="imageContainer"></div>
+    </div>
+    <main>
+
+        <div class="qr-container">
+            <div class="container">
+                <div class="qr-row">
+                        <div class="qr-card">
+                          <div id="qrcode"></div>
+                        </div>
+                    <div class="qr-content">
+                        <h1 class="qr-title">Scan QR Code</h1>
+                        <p class="qr-description">Scan the QR code to view this website on your mobile device.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <script>
+        // get the content file name
+        const fileName = window.location.pathname.split('/').pop();
+        const replacedFileName = fileName.replace(/\.html$/, '.json');
+        
+        // get the content
+        fetch(replacedFileName)
+            .then(response => response.json())
+            .then(variables => {
+                document.getElementById('pageTitle').innerText = variables.title;
+    
+                const contentContainer = document.getElementById('contentContainer');
+                variables.content.forEach(content => {
+                    const title = document.createElement('h2');
+                    title.innerText = content.title;
+                    contentContainer.appendChild(title);
+    
+                    const description = document.createElement('p');
+                    description.innerText = content.description;
+                    contentContainer.appendChild(description);
+                });
+    
+                const imageContainer = document.getElementById('imageContainer');
+                variables.images.forEach(imageData => {
+                    const imageCard = document.createElement('div');
+                    imageCard.classList.add('imageCard');
+    
+                    const img = document.createElement('img');
+                    img.src = imageData.url;
+                    img.alt = imageData.title;
+    
+                    const imageTitle = document.createElement('h3');
+                    imageTitle.innerText = imageData.title;
+    
+                    const imageDescription = document.createElement('p');
+                    imageDescription.innerText = imageData.description;
+    
+                    imageCard.appendChild(img);
+                    imageCard.appendChild(imageTitle);
+                    imageCard.appendChild(imageDescription);
+    
+                    imageContainer.appendChild(imageCard);
+                });
+            })
+            .catch(error => {
+                console.error('Error fetching the variables:', error);
+            });
+    
+        // Generate QR code for the current page URL
+        var qrcode = new QRCode("qrcode", window.location.href);
+    </script>
+</body>
+</html>        

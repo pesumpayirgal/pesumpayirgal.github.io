@@ -1,0 +1,37 @@
+﻿{  
+    "title": "Paatham maram பாதாம் மரம்",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Indian almond"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Terminalia catappa L."
+        },
+        {
+            "title": "Family name",
+            "description": "Combretaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Grown for its nuts and shadow. Nuts are edible.Phytochemicals present include: phenol, flavonoid, and carotenoid. Plant exhibits antimicrobial, anti‑inflammatory, antidiabetic, antioxidant, hepatoprotective, and anticancer activities."        
+		} 
+    ],   
+	"images": [        {            
+			"url": "https://lh3.googleusercontent.com/pw/ADCreHcRGQNVi-2K2ntplev7rHGN9W_LPlz-p-8NQL4z7jyLSSjFp8GLSkY-m21QrQH2_goNfaZndYqVxDZHon386nGQl1mlJ8zox7hyXbVG6TuvBR44vCIoJuH2ndFoSLWNPE3FK6i4gQxgaL6U-anct-bF=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfftH74PP1waNft4GbL73_hQZTvqN281_sXlN5aNaxPs6TTB8iacKouSgPrZ_5cg5J3bp1jJhycQspN5u9GFDKWaVmf6LVn5AOTq-Ma6FY1U6wElisB_C2GTuSCih0U5JSnacCXesGQBlAmx9IB8y1y=w1040-h780-s-no?authuser=1",
+            "title": "Inflorescence",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHct8RpZuxnFK5WBL5PEzneTV2QiRpGqE80asKrUBF09wE0vZRD7RPOJIDlqiNhy5pA8oCj1ZxPm8uBf40gy1fc-5TMoQNw0s4R3gE0apDLIF7rudh_byBo7d0rwuBcZAm2vfNWoryK3u-DiheSauw08=w1040-h780-s-no?authuser=1",
+            "title": "Fruits",
+            "description": ""
+        }
+    ]
+}

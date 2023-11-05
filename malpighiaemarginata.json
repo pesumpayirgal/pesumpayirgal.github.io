@@ -1,0 +1,38 @@
+﻿{
+    "title": "--",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Aerola cherry/ Barbados cherry"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Malpighia emarginata DC."
+        },
+        {
+            "title": "Family name",
+            "description": "Malpighiaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Fruits are rich in vitamin C. Also contains vit A, B1, B2 & B3, carotenoids & flavonoids- antioxidants. The phytochemicals showed various health promoting activities. Fruits can be used for the development of novel functional foods. Aqueous extract increases immunostimulation. The aqueous extract presented antioxidant potential."        
+        }
+    ],    
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHcnAfwfsQVuf0gCsMFR8obphwcSOVFwpEa8rc1XRS0bSZcwIfb29yjT2mrde-yuWzA2LK3_ixFoJ2gcZ5072qX7hpnTBgNQBrVqSjlgWTZljU689cB54m4S3oyQH53VW2w2xTUxHU-SkhYIYZ5NFpEq=w1040-h780-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHd9KiYkIdyx4IMdb2wa6EWFx7xK9I2BSNsUVayaoSsiAHe3dOLsQizZkZrMAjVuKcdxr0jj1UaOMUz-ELyWfysLsKLnUat31k-BYlHsyrWGWzIKUxdcYdwaViyl4OPFZ42Iu8MYeSvyhhFU0ghlqt5r=w1040-h780-s-no?authuser=1",
+            "title": "Fruit- unriped",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHeZozfcFRxnYLtCgdmb9JwGOGAA6VFrMvqFQwrwByMX1iIpQGGNVY71JYccow-vKQR0s5BQpyO8_ZltrtWtjAQ4vDbSANCVmsPauisbDbaulYM4VuY1v4ogCZ3vhPcScXjOJY3a0Ro7c9GtWv5VxXcV=w1040-h780-s-no?authuser=1",
+            "title": "Fruit- riped",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+﻿{
+    "title": "Mulvaengai/ Malai vaengai முள் வேங்கை/ மலை வேங்கை",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Spinous kino tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Bridelia retusa (L.) A.Juss."
+        },
+        {
+            "title": "Family name",
+            "description": "Euphorbiaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "The bark is medicinally useful. The extract contains presence of β-sitosterol, stigmasterol, lupeol and friedelin (Pentacyclic triterpenoid). In addition, the extract posses the analgesic; anti-inflammatory and anti-arthritic activities in vitro."        
+        }
+    ],
+    "images": [
+        {
+            "url": "https://photos.google.com/u/1/share/AF1QipNzH0AvViObVb4qzUZNPkc934MsNY5b05ndAMw0812Ndlq32eqffqUZBNMgJtnZyg/photo/AF1QipOpNv7ERSMXvx92S8K2DuiNA8jGg4GWAcxk5crz?key=U183XzhZaHNqbkpXOVJVVmlFTjJOY05iQ1NLby1R",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfnHWRwJRhHwAshNvWaMdjCPjvAesn2IyxG5oFQv5THlK58eAbKdA2KCFvlXp0BRcQa4D1qwsP65qnocoFTtjay-TcMVIrPmoWqh-8WrplE8BkRJtY6UWNE6Mvl0v0WLKCyIHeHEnEPPATttVe3mulC=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfLh2ukNgGsVATBd0cgtCiEkVT5ZNraujZCaZcGvuwqWh2xdh7E_M51-0F-ZsGoJpEZ-XnhEvST9ehFjKjSZoG3msmONvYIonJXAh2tdkU92Z5GBv0M5Hvo0hMTDYsi1wyzjrSvtsBpknxIkcjMfpCc=w660-h881-s-no?authuser=1",
+            "title": "Fruits",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+﻿{
+    "title": "Sivapu mantharai சிவப்பு மந்தாரை",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Yellow bauhinia"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Bauhinia purpurea L. "
+        },
+        {
+            "title": "Family name",
+            "description": "Caesalpiniaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Ornamental plant."
+        }
+    ],
+    "images": [
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        }
+    ]
+}

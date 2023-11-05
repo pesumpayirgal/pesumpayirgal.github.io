@@ -1,0 +1,33 @@
+﻿{
+    "title": "Seemai agathi சீமை அகத்தி",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Quick stick"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Gliricidia sepium (Jacq.) Walp."
+        },
+        {
+            "title": "Family name",
+            "description": "Caesalpiniaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Medium sized avenue tree. Beautiful pink-coloured flowers formed on old stems. Used for ornamental, fencing, fodder, construction poles, crop supports, green manure, fire wood tree. Leaves have a high feeding value, with crude protein comprising 20-30% of the dry matter, a crude fibre content of only about 15%, and in vitro dry matter digestibility of 60-65%."        
+        }    
+    ],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfaZSA5WiT5qP-SKFWAn1soG1KJ-caUPxJ8Yf_DlSmrsjBE2tZ5PIChkvZkm-PM09Abpp-a-22UGzEevCL-8nAzo7JlsYltNHJ6bLEtcRKgl-CZSV8-80LcYwF6qUDFYkt7_JEmDsd6ySS262JyOAJm=w1040-h780-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHe6ekoJKERlFtbZhlfYjuMnwTEckjMv7TiS4f8-Vjfk1XFGCMYSRNODOOnmwv8uXksPr01LWdbWf34NK5v4KHqLYvL4nzgORD-DOmaveiY13hz13M3trzHL6Vn5Ry8_T-RtRQw7UEDp8Ei2HUgS0iba=w660-h881-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

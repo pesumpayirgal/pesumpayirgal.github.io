@@ -1,0 +1,38 @@
+﻿{
+    "title": "Nintamaravakai",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Weeping fig/ Benjamin fig"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Ficus benjamina L."
+        },
+        {
+            "title": "Family name",
+            "description": "Moraceae"
+        },
+		{
+            "title": "Uses",
+            "description": "An ornamental plant used for ceremonial and fodder. Twigs are used as insect repellent. Leaf juice is used as flea and bug repellent. Latex is used to treat the boils."        
+        }
+    ],
+    "images": [
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        }
+    ]
+}

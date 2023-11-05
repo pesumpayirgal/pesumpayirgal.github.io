@@ -1,0 +1,33 @@
+﻿{
+    "title": "Vazhai maram வாழை மரம்",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Banana plant"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Musa × paradisiaca L."
+        },
+        {
+            "title": "Family name",
+            "description": "Musaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Fruit yielding tree. Fruits are edible- an important source of energy as a staple diet in the tropics. Epicarp of fruit, bract, leaves could be used as biofertilizer after decomposition. Fibre from leaves is used to tie flowers in garland making."        
+		}
+    ],    
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdUuG2JsoiisK-rHCJ1sTfGvUDaQ4bgPpu0RdiPMPIizuU3K240Pek1WhFqbHFETNpcc3n9-1jTnSsXUULL0R10hBVEqTK4IiDVbnrRfFNcJw1WNh3bPNJPBxRyYCkUN_-XLT_cDIPCNDZ573j10sfM=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdJ65496kUI9Z75MWwSUgWyjEHOe5bNanjniC9TdwZRQL6oJON14CM9bxr9C1qfD_7XHxrIF56U4lS5jObmG00AvMifOwD1bnByaclgrbefvU44UlGzPexvu18jLVgmpWt22vFgsLNAWW9vNUeNy2-I=w862-h605-s-no?authuser=1",
+            "title": "Inflorescence with fruits",
+            "description": "Grow mango seeds and learn the process"
+        }
+    ]
+}

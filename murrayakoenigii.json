@@ -1,0 +1,38 @@
+﻿{
+    "title": "Karuveppilai maram கருவேப்பிலை மரம்",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Curry leaf"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Murraya koenigii (L.) Spreng."
+        },
+        {
+            "title": "Family name",
+            "description": "Rutaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Leaves are used to season the curry and to make chutney. Rich in medicinal and nutraceutical properties, and cosmetic uses. Stem, leaf, fruits, root and seeds have anti-oxidant, antifungal, anti-candidal, anti-bacterial, anti-hypersensitive potential. Used asa dysenteric, blood purifier, diuretic, febrifuge, hair tonic, anti-inflammatory, analgesic, antipyretic and anti-diarrheal in traditional medicines."        
+        }
+    ],    
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdWbEk_GK6n57AgmVsciAivAhZYqByNariKavbwLrzF4QI7ZLT2JB5R4V-Nx2LdUBIQVc8L5CsS0l4g1WnzVl2sRWJ7JNXW0XuBgWyZg0rkSssKXNuaNhDEC_JvAja30w-_4AS3nt6uVpmRjgaqY3Kp=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdT1DHarPPDoC9YmrIDL6DofABXFm2HyNft5pPJqWTuBD8BE9vvwFEGWpTlWeV3rCGyXePnYyI_gazZ-ivGBACCL1ART_whRkqnGCeYLnwa1_WiD3NceM2OCDchiaRLzJxcAj0SYyUb-8zKqqP-7PYd=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfPHLS6HTj3KDzJAtrWAsr-eFGVRkUTbcu3klifanuGHYq_BDkXceNGqJ2IgMTa2GoF4ZEaTju-J8QLG1KO_kGA0LcvDwKgVuyuLLepzfjkp6ib_r0opIZLorarSIAZDqDxzG1DVlKBifRSAgKpUMg0=w1040-h780-s-no?authuser=1",
+            "title": "Fruit",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+﻿{
+    "title": "Naval maram நாவல் மரம்",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Malabar plum/ jamun"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Syzygium cumini L."
+        },
+        {
+            "title": "Family name",
+            "description": "Myrtaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Fruits are edible. Controls blood sugar level. In traditional systems of medicine, the seed is administered for the treatment of diabetesmellitus, inflammation, ulcers and diarrhoea.It is shown to possess chemoprotective, radioprotective and antineoplastic properties. Some of the phytochemicals present include: glycoside jambolin, anthocyanins, tannins, terpenoids, gallic acid,τ-cadinol and tau-muurolol. The compoundsof intermediate concentration were globulol,monoterpene hydrocarbons, non-oxygenatedsesquiterpenes and oxygenated sesquiterpenes. Fruits are also processed to make jam, jellies, squash, vinegar and ice cream for its beautiful and attractive purple colour."        
+		} 
+    ],   
+	"images": [        
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdSFRYdLyh6I_YrIy21iBh8ZkomClNWqswqiydB3am_KkS3o1Fi5Ah95DZNAFBuj3zCbmQh5_ODdvL3Z2ijeA3Js_3h0oZ638VlzuoeD6bF5MpEnuJIVJrh0GrQiA0m08RuapBZZvao1g6j3xA6Wi0r=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHe3bHbccKT_WX1UBKzXLPzJNUBj50WfhCyglFxtqLvDXPlnoO8sBcIIXHmrlvCFyYf-rT2gmdC5oTZLGNKwIz-ZewpwmRtF68bFNLwbTvo5ZJkbE3jw7T8X8WoJzauDftsHPW-aMdymBmn_Ut6WNP6I=w1040-h780-s-no?authuser=1",
+            "title": "Fruits",
+            "description": ""
+        }
+    ]
+}

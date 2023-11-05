@@ -1,0 +1,38 @@
+﻿{
+    "title": "Cycas",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Cycas/ Sago palm tree (a gymnosperm)"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Cycas revoluta Thung."
+        },
+        {
+            "title": "Family name",
+            "description": "Cycadaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "An ornamental gymnosperm plant. Leaves are used for decoration. Phytochemicals present in this plant include flavonoids, glycosides, non-protein amino acids, fatty acids, benzenoids, terpenes, amino acids, diterpenoids, triterpenoids, sterols, esters and steroids. Cycas is used as a traditional medicine to treat blood vomiting, flatulence, skin diseases, hypertension, gastrointestinal distress, cough, blood pressure, hair growth, astringent, diuretic, snake bite, dressing wounds, swollen glands and stomach purifying. Crude extracts exhibit antimicrobial, antioxidant, cytotoxic, antileishmanial, anticancer, etc. The stem pith is used to make sago."        
+        }
+    ],
+    "images": [
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        }
+    ]
+}

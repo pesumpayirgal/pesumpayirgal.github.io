@@ -1,0 +1,32 @@
+﻿{ 
+    "title": "Nari vaal panai நரி வால்  பனை",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Caribbean royal palm/ Fox tail palm"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Wodyetia bifurcata A.K.Irvine"
+        },
+        {
+            "title": "Family name",
+            "description": "Arecaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Ornamental palm. Leaves looks like fox tail. Stem and leaf extracts contain β-Amyrin, lupeol, apigenin, kaempferol, p- hydroxyl benzoic acid and gallic acid. Triterpenoids are against, anticancer, antioxidant, hepatoprotective, antifungal, antibacterial and antileishmanial activity. Biochar produced from this plant is used as adsorbent for methylene blue removal from water. Thus, reducing water pollution."        
+		} 
+    ],   
+	"images": [        {            
+			"url": "https://lh3.googleusercontent.com/pw/ADCreHcCS2N5tDQaRwnifdsfvnxRPD9JfPpjAPtW0m36XP4LVL6C2D4wXUB-pRuAGfAjiIvfYEftWBUiJKRmxHNowTOGpDXJ9E4XRrWTUpjKgxm0bBh6p7nR8fZ07RUjES7MspJmCD5YIg9wKQ9okSQWZmiz=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHeHfklI3Cmj_1t6-R-eM2z0z7YSXWcXsnQcW7ppp-wS4x4EoqnoA6lyDgXpYalaggSlHaRTjwcE0OUsJPMJfXZYe4eQYVcfRLwRIab0sVrHPkpro4x31oLGhNgRtjswn9xdck9Gmm5FdDF-XrplU6Y7=w1040-h780-s-no?authuser=1",
+            "title": "Leaf",
+            "description": ""
+        }
+    ]
+}

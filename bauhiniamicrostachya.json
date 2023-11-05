@@ -1,0 +1,38 @@
+﻿{
+    "title": "Iruvatchi இருவாட்சி",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Yellow bauhinia"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Bauhinia microstachya (Raddi) J.F.Macbr."
+        },
+        {
+            "title": "Family name",
+            "description": "Caesalpiniaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Ornamental- flowers bell shaped with large yellow petals. Extracts of the plant's roots have in vitro antimicrobial activity. Extract from leaves contains flavonoids kaempferol 3-O-rhamnoside, quercitrin, and myricitrin as well as methyl gallate. Analgesic activity is found due to the flavonoid quercitrin as well as its antispasmodic effects. It also has antioxidant property."
+        }
+    ],
+    "images": [
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        }
+    ]
+}

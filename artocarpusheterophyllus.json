@@ -1,0 +1,33 @@
+{
+    "title": "Palaa பலா'",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Jack fruit"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Artocarpus heterophyllus Lam."
+        },
+        {
+            "title": "Family name",
+            "description": "Moraceae"
+        },
+		{
+            "title": "Uses",
+            "description": "The fruits are of dietary use and are an important source of carbohydrate, protein, fat, minerals and vitamins. Jackfruit contains flavonoids, sterols and prenylflavones. Fruit has antioxidant, anti-inflammatory, antibacterial, anticariogenic, antifungal, antineoplastic, hypoglycemic, wound healing effects and causes a transient decrease in the sexual activity. The decoction of the leaves possesses hypoglycemic effects. Heart wood is used as timber."
+        }
+    ],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfXj_XSLHEsoSqLAabNmrcIe8-Ap_9vXgJKrE9mARlBl4J5pGt-vg1tIgN7wYxFoEmdVf4SPeM0CH_SeFysEz6sHFjjcZmtn45IBcu5_gLjaUViWwVMsuPia4hpmnguw1QHmmk9QogO8f7wJaXvqbEP=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHe4re9ch9p_0hQsD7btRW5meLbpfOhuRCBSB3nH6gbrOCMFRjWRH-Riva07sf8XyeG4RkSNwBJ-rIiKjzwyEniM4i8oIkruxrmRkPpji_YrKSbPl7zbb_Wp3kEKj0PvUt-c_7HyuMvAZ-US0qXEiWOF=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

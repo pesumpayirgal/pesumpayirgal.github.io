@@ -1,0 +1,33 @@
+﻿{
+    "title": "Murungai முருங்கை",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Drum stick plant"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Moringa oleifera Lam."
+        },
+        {
+            "title": "Family name",
+            "description": "Moringaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Leaves are used as greens. Rich in vitamins A, B,C,D,E and K. Minerals like Calcium, Copper, Iron, Potassium, Magnesium, Manganese and Zinc are present. Has more than 40 anti-oxidants. Fruit used to make curry and fry. The leaves, pods, seeds, gums, bark and flowers are used to relieve mineral and vitamin deficiencies. It supports a healthy cardiovascular system, promote normal blood-glucose levels, neutralize free radicals, enrich anaemic blood and support immune system. It is utilized as fertilizer and fodder for livestock."        
+        }
+    ],    
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfGjk3yAF9YFlE0xiZvE3eFkaEFM-aKvixEJ3WlXTse1K_Pk8BqOJYFtCCw0q8FThhTqLb9kSW5xU3isxLLo3_sPopFVulTeIHC6ODH7A6_RlnsKZ9wEu4S1ul2JPSc1wcyE7_W8cmHdvxu30Msxf2b=w1040-h780-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHeV0PjCtrxm0-6lBEjcM3UuG4HsefweHxIjkHMHQblvKYZZewHxaOZ8HFosygMMh3nsAL-DosXp-fVzZj-Qxt4VS3ahwKUjBEbefqbGg1vXsWvItHsc3H7esnGufWazWWlYxooBwDDrhPjdLQC7idzw=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

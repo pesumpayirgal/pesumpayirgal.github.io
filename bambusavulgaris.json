@@ -1,0 +1,33 @@
+﻿{
+    "title": "Moongil மூங்கில்",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Bamboo"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Bambusa vulgaris Schrad."
+        },
+        {
+            "title": "Family name",
+            "description": "Poaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Stem used for the construction works. Seeds are edible. Phytochemical analysis shows that it contains glycosides, saponins, alkaloids, flavonoids, phenolics and tannins, phytosterols, and triterpenoids, oils, and fats. It is used as a drug for malaria and diabetes."
+        }
+    ],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdfAIl-LO-j6ZAU-rLM3MugA3OJID27OZ-eJh0Of1SNzG1-e1dEaT8FjxJUO-DLvNLZWiOfa8VDDMzV3Zt7U3XVKgWkS8j2V-vF_F9vV8L1rUzGZoicmRM8M5kWMpj5Jm6mP1nWNDn01SIQTQ75VLtP=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfJTklUXPUglVhX2_hWxanuUeI6U2iEL9inznbxvWD0IJedN5DMD81A-WIKScCNv-YOZjMqho4wD5QLmQgTVDSlesBHhU-m_-7P84GSoiCjd-OrmyAb2RwSSFj0U9tVTMJqQ_kT6tdtZfHKrx-ySkzN=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

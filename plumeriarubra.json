@@ -1,0 +1,33 @@
+﻿{
+    "title": "Perunkalli பெருங்கள்ளி",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Frangipani"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Plumeria rubra L."
+        },
+        {
+            "title": "Family name",
+            "description": "Apocynaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Ornamental plant grown in parks, gardens, roadside. Flowers are white with yellow tinge-  showy & fragrant. Used to treat diabetes mellitus, wounds and skin disease, diuretic, purgative, abortion. It is also used in cosmetics, aromatherapy, necklaces and as offerings. Besides above it possesses antimicrobial, antiproliferative, antimutagenic, antiinflammatory, antiulcerogenic, algicidal, antioxidant, insecticidal and wound healing properties. Major phytochemicals present include: iridoids, terpenoids, flavonoids, cardiac glycosides, phenolic acids, steroids, fatty acid  esters, coumarin, cardenolide, cinnamic acid derivate and volatile oils."        
+	    }
+    ],    
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHctSOyKwUY-7NSmkecPYBKIj3tWXd8ZQ5ViXOYyF3fQRb1PXuuZ7N_nayBg7szCrzMh1st8102sDpkCCTyGcBgHBB9o2yt54DgcmRlprixg6dtg5alkGh42Zl9TmsWh40QaRF4b5siqdlLXuKLb8kLi=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHchGNHBo_LkG6Ww8oAvTbxJ4fHuHdqgTk4SatDaHv_2QFm5tuPeC-1mJ0xitCVptr9NficcctPm3sShN8nuEsUXdYlnwyOOGldu5aEuHwx5SysJQBODp4O9uiywRHaIhtycmc7Q8BIzGPjkg7xO0OLk=w1040-h780-s-no?authuser=1",
+            "title": "Flowers",
+            "description": ""
+        }
+    ]
+}

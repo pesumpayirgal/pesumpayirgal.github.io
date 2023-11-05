@@ -1,0 +1,33 @@
+﻿{
+    "title": "Nir kadambai நீர் கடம்பை",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Bullet wood tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Mitragyna parvifolia (Roxb.) Korth."
+        },
+        {
+            "title": "Family name",
+            "description": "Rubiaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Fresh leaves are used for the treatment of jaundice.  Wood commercially valuable."        
+        }
+    ],    
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdBH-5Voglea7tL-H8j8PKL-hFzzq4LRfTSMh5pkzcoc0oNk7RacWDUIT5TWifjRseMJkFN4zeftNzhEygF9Z7wow7sYpX15O8sqvoXrLzZYXhhizPIUCyAJcOO4L0iR2uKeiLDYKjkiuVh6BYewyB9=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfZTiTZP8yr1DONhshC2YSZ6u3CheG_JvvNCzYh5PHWtiNlY9N0nu63NYRowrjKenB1PIK5A5kE0QrjgTNfUw23BTrGWDGrB3NkW9pj-v6hekonIGEd5ART21EJvJOcpEa2yD8AP3CXJRoZQ0mc3LPg=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

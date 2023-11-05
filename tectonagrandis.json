@@ -1,0 +1,37 @@
+﻿{ 
+    "title": "Thekku தேக்கு",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Teak"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Tectona grandis L.f."
+        },
+        {
+            "title": "Family name",
+            "description": "Verbenaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Wood is strong and commercially useful. Used to make doors, windows and furniture.Phytochemicals present include: tectoquinone, lapachol and deoxylapachol, naphthoquinones, anthraquinones and isoprenoid quinones, triterpenoids, steroids,lignans, fatty esters and phenolic compounds. Also has antioxidant, anti-inflammatory, anti-pyretic, cytotoxic, analgesic, hypoglycemic, wound healing and antiplasmodial activities."        
+		} 
+    ],   
+	"images": [        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfJ2C8sAdMpCoGLHbde1qi95X_LTISb6Q_755uyE-XhkdFh6Ser9CWQf9-OwO2-y8Kzy4JDZcFohoyeyA5Enm9P-VkktlCq3x86POu6xQTyKIpIgqH3CdOaHU0DfAuAwWj7Sa0KQG9zuu-R1onsmZt5=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHc52b4nj6NeyU3nfb-KSOJZXrNWncpxp8Dq7drVBYO-sHVKpXl2TGoNG6RWC7ZdpBrbtdjeyRC9-jVCUAk09QXt18_5ZcXhNJAVAEpmVinTRFhRt4m_QIECuJFCSWFSmY0na9_mX0YCjVGu01XGvJJv=w1040-h780-s-no?authuser=1",
+            "title": "Inflorescence",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdyfaHGZdgB_SYyFKfKKuX5gC7xeoI0YSKuo14Sk2mKdrIxLEHMyeF6P3NtHMQ0Lva0K7P_Vek1aDqO7UUFkc0mk-11fBMN6XGzKIpE9uf1VgHslMHZnqINsR0GEnA8FWSjkwYoMjopvbznwU1S-JYS=w1040-h780-s-no?authuser=1",
+            "title": "Fruit",
+            "description": ""
+        }
+    ]
+}

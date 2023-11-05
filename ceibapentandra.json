@@ -1,0 +1,38 @@
+﻿{
+    "title": "Ilavam maram",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Silk cotton tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Ceiba pentandra (L.) Gaertn."
+        },
+        {
+            "title": "Family name",
+            "description": "Bombacaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Silky cotton derived from fruits are used to make pillows and bed. Leaves, stems, roots and even whole plant used for the treatment of bronchitis, diabetics, diarrhoea,dysentery, skin diseases, arthritis, painful eye diseases, chronic fever, insect bite etc intraditional systems of medicine. Phytochemicals such as tannins, flavonoids and glycosides are found."        
+        }
+    ],
+    "images": [
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        }
+    ]
+}

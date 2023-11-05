@@ -1,0 +1,38 @@
+﻿{
+    "title": "Semmaram செம்மரம்",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Red sandal wood"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Pterocarpus santalinus L.f."
+        },
+        {
+            "title": "Family name",
+            "description": "Fabaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Timber is highly priced than teak. Wood has a natural dye santalin which is used as colouring agent in food industries. It is used in ulcers, eye diseases, inducing vomiting and mental aberrations. Heartwood has antihyperglycaemic activity, antipyretic, antiinflammatory, anthelmintic, tonic, hemorrhage, dysentery, aphrodisiac, diaphoretic activities and also used as a cooling agent. Wood in combination with other drugs is used for the treatment of snake bite and scorpion stings."        
+	    }
+    ],    
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdhLEaK8cdnUNLF9CnK7o8eVT6cXX7VFnTnOkcZ88w-kLVpW5-r_Lo0TAxU0MjpoKHhd5oiPVZoMErglT7E9u0PtCYwLE4qE475V843BUgAjPKXjrRtC0OaMKK6KRInQSC1eQDrlTtwa2ElBVD2nsla=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://photos.google.com/u/1/share/AF1QipNCnPOwEmIzb9ukW_QleJVE9M7FJEz6-UEVFHYbJQKneZZ7BxYr12-I8GFSuSZQ-w/photo/AF1QipPQ4ZYjTkDAkfyJabLdP2FskiWAIfC47birkay3?key=N3MxVVFfZlpUTTRNY3FNdFFMeTRaMEJOZjNzODl3",
+            "title": "Leaves",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHc3AEmND9UR-CYV89TeB8qXGCHKvudaFMIsjQGCjaBp4iX86v4Zq7mkCCmRfF-tgGwDq-pVhCvQLDnhv8U5e-M2SqiXorEVKoqqlSDKO4yHq8taPeNpcxWT7jP5LEW3E_V2knFO8vPjuzL8zfR3bmd1=w1040-h780-s-no?authuser=1",
+            "title": "Leaf- abaxial side",
+            "description": ""
+        }
+    ]
+}

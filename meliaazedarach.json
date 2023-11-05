@@ -1,0 +1,38 @@
+﻿{  
+    "title": "Malai vembu மலை வேம்பு",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Chinaberry tree/ Pride of India"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Melia azedarach L."
+        },
+        {
+            "title": "Family name",
+            "description": "Meliaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Leaves are used for the treatment of  infertility in humans. Leaf decoction controls blood sugar level. Extracts work against the tick Boophilus micoplus, the malarial vector Anopheles stephensi, the dengue vector, Aedes aegypti and the human lice Pediculus humanus capitis. Also has Insecticidal, acricidal, fungicidal and rodenticidal potentials of extracts made from various parts of the plant."        
+        }
+    ],    
+    "images": [
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        }
+    ]
+}

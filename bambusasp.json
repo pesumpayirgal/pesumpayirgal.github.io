@@ -1,0 +1,33 @@
+﻿{
+    "title": "Moongil மூங்கில்",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Bamboo"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Bambusa sp."
+        },
+        {
+            "title": "Family name",
+            "description": "Poaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Used as an ornamental bamboo in courtyard and gardens. The stem in very thin when compared to Bambusa vulgaris."
+        }
+    ],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHcmuT-iKifvobJ15ggZp8guBzrnEyLZ1cD7Cw2TRX_0PsYWeKUOk1XQKdQHF9SgAl9ehTEuo4RuDOJE8DTVcr_Bel8MfOrmCZ6OLHTP0zdLyKDY5EwzgPSPL2TLigaVUVPrt8WpmKeAycpAt1ZsQf-R=w1040-h780-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHcnUULKA47eMcJpb22K2UqOKm-Yn98wSY2IlmKf8QiVrCKG5bExD9hCTZuLWvJSRuO0MnnT-mydojzhPAyPj-n74N_Xh_jdeIOTGYodHEsOuleHkcRQD2bYkIpW7DIxLNzSW90RwJEnyQ6KWFcwAl_l=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+﻿{
+    "title": "Aala maram ஆலமரம்",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Banyan tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Ficus benghalensis L."
+        },
+        {
+            "title": "Family name",
+            "description": "Moraceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Grow into a huge tree with prop roots. Fruit is edible. Grown for its shadow. It is considered as sacred tree in India. The barkextract contains glucoside, 20- tetratriaconthene-2-one, 6-heptatriacontene-10-one, pentatriacontan-5-one, beta sitosterol-alpha-D-glucose and meso-inositol. "        
+        }
+    ],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdT2Ro6p9AwqhVc1eRq-zgos5QTIge07LAnWPfA8hy2rAFYCzcsqotMsovh4SXvzF6gu_301Q4ldK9GdOws3tA6OSb0UponuoORtL8DHhUkjuUZ6fUbLndKf4RrhCc2o5-g0SPoewJTR81HNdQ7iF5V=w1040-h780-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHcLlEvgd6w0l0burJ3HPYL3Wnsk7lxI681AkVYnRckSgYEfGWxr91282-7qcpvVdPeuKiuxmqBVkFncoCZ0ynlcj4UeaBTPPxrsnV9NYh-oHFZ3-5e_HMAl3RrpZ7Zw-ScOpeS6FmiVF4yP-PlJQ5Z2=w1040-h780-s-no?authuser=1",
+            "title": "Leaves of young plant",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHe4LWeaD-Kx0NbnB-liin9HX4e8ypggl7MubTiTxpX6o4Gzvu99MW-58llSOQOOoNLVQswkqdGFI3ZhOFP2o3Ryq-yV3i3mkkh7xJTMJWlRNU6N86eUST8x7_NGmzvQ7lVBEqa3bZPMJs9w2I0H2L9F=w1040-h780-s-no?authuser=1",
+            "title": "Fruits",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+﻿{
+    "title": "Kuthiraippidukku குதிரைப்பிடுக்கு",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Bastard poon tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Sterculia foetida L."
+        },
+        {
+            "title": "Family name",
+            "description": "Sterculiaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "The seeds are edible after toasting and taste like Chestnuts- oil is used Medicinally. Timber yielding. Bark is useful to make rope. Oil contains cyclopropene fatty acids namely 8,9-methylene-heptadec-8-enoic acid (malvalic) and 9,10-methylene-octadec-9-enoic acid (sterculic). Hence, it could be used as biodiesel. Leaf extract has anti-inflammatory activity."        
+		} 
+    ],   
+	"images": [        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        }
+    ]
+}

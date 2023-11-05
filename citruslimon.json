@@ -1,0 +1,38 @@
+﻿{
+    "title": "Ezhumichai",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Lemon"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Citrus limon (L.) Osbeck"
+        },
+        {
+            "title": "Family name",
+            "description": "Rutaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "This plant has valuable pharmaceutical, cosmetic and culinary (healthy food) properties. Lemon has high content of phenolic compounds, mainly flavonoids (diosmin, hesperidin, limocitrin) and phenolic acids (ferulic, synapic, p-hydroxybenzoic acids). The essential oil is rich in bioactive monoterpenoids (D-limonene, β-pinene, γ-terpinene). Therapeutic uses include: anti-inflammatory, antimicrobial, anticancer and antiparasitic activities. Fruits are used to make juices and pickles."        
+        }
+    ],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHeFxzwVUBCcYwYCqlY2qRhV-ZWKcrHmhsMMPKwpB4Ok5pjbQn4qnZ6VkelabvRm0b39B-V5uDuqgI6dnTwr_F1VgmNtXkR_tF4L1vmmCrz8rlU3GqoxH57SMSZPTGPJ5iJ_f_BaNo86BqHjJexhRnyL=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfiebJDry4bJfZdK2UfAj9VhO3dKYH7PAHv8rkkyH5fniBBpfNA0lpo-z5Tf3X-9QvhIXLPjPiQJeaZz3aGgJqqqPVt_MaOfTFXPZIkP1wAkBJzJd0mUtbzZmxGerOynQC03hce6GGbUDI-CS0hcgUk=w1040-h780-s-no?authuser=1",
+            "title": "Stem with thorns",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHd6P0ifLNYzQtEdOamqmQIoB9oDs6mv_ewDYpZu4UaettJ3fF0u8ze4qsg9WEmL-WFUrYMch6uy-0CcyD_7YSgk3dabBkY58Xjd8muUzxXjnrqt9Ll7bY0N-rSzO3k_Ni8mblEr-kw-4o18mIk2CIw5=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

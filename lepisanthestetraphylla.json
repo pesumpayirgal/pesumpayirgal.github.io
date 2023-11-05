@@ -1,0 +1,33 @@
+﻿{
+    "title": "Poovanti பூவந்தி ",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "--"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Lepisanthes tetraphylla Radlk."
+        },
+        {
+            "title": "Family name",
+            "description": "Sapindaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Wild tree. Leaf extract has the potential to reduce silver ions present in the silver nitrate solution. Seeds are used in ethnobotanical medicine."        
+        }
+    ],    
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdthHUsZQg9afKqIDpl6EYEaWq6gmtPIZdEx5g2aADkuaroaiM3ElAy26EEooCqgeCCKOFwzLPRDuFDNGC9ZTMoMvAlL06J2AOFubnTQxNnDLhEtsQ_IF9Ux5H_qmmFUXc396hyqHQi-BAfAuDz5vUr=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHf-DHbRyUAgaLVF8TCKnszZJ_WaXoYkym3yBi0S3CqbKig2t3K2XJvBRVlQEIWEBVgGruk-vCyoyB7-7S9L8-4_GJhTopJBvJuzKmZXzqUN0gMKB4n__ZlFvCNVY_qYY-8SGx51MYJ-jbsCLYjiT42U=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

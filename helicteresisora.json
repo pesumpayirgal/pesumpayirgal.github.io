@@ -1,0 +1,33 @@
+﻿{
+    "title": "Valampuri",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Indian screw tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Helicteres isora L."
+        },
+        {
+            "title": "Family name",
+            "description": "Sterculiaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Grown for its unique twisted dry fruits. Fruit appears a screw shaped. Plant is used as a folk medicine to treat snake bite, diarrhoea and constipation of new born baby. Antioxidant, hypolipidaemic, antibacterial, cardiac antioxidant, antiperoxidative potency, brain-antioxidation potency, anticancer activity, antinociceptive activity, hepatoprotective activity, anti-diarrheal activity & wormicidal activity are documented. Phytochemicals present in the fruit include: 49-O-b-D-glucopyranosyl rosmarinic acid, 4,49-O-di-b-D-glucopyranosyl rosmarinic acid and 2R-O-(49-O-b-D-glucopyranosyl caffeoyl)-3-(4-hydroxyphenyl) isorinic acid, rosmarinic acid."        
+        }
+    ],    
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHcXqaainzyFEmo4VRwkyeYw6oYH_7mk4OtKMl5IlmHBXS1c3_IwE_Gpc-KMs4NznI_EII-kX_shu4nHc0fCH0NbD5CFNjOrNah-QW9AmRcWmz8s7i33KQnH_QNfBMAYV8JXyuCFYa83qplW8uJm_hLl=w1040-h780-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfWzecf_VjK8wdreFRXNrDvkoVNQqwU17o2SopJLDDa182nBcA58aV2sNIt8B62WKC0a0A5OD97XtUcb9DpMS_9_skvyGmNt-lt-ptbdGp7u9MiTt0OHYS---FIYV9wR7Dtfjmx1q2hsntvHwlZCI2A=w1040-h780-s-no?authuser=1",
+            "title": "Flower",
+            "description": ""
+        }
+    ]
+}

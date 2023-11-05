@@ -1,0 +1,33 @@
+﻿{
+    "title": "Pappali",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Papaya"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Carica papaya L."
+        },
+        {
+            "title": "Family name",
+            "description": "Caricaceae"
+        },
+        {
+            "title": "Uses",
+            "description": "Fruits are edible. Leaves, fruits and latex of papaya have medicinal properties. Latex from stem and fruit contains “Papain”, which is used in brewing and wine making. Also used in textile and tannin industries. Phytochemicals like vitamins, carbohydrates, sterols, lectins, saponins, flavonoids, minerals, proteins, alkaloids, etc. are present."        
+        }
+    ],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHeZ8F93T67P-jLZWp-u_WjyWqXh7ypiJpCFAkUuS5mENpOVnOy1Cb7PAmdTYd4PXFXCKDiAH7BXwXzuu7QPTQ9XHcauWXnHTEodNWrVFpPzlkKNvYBirkTAq0OBQHaVGZqK0pcEUVETvfAq6fNzMULf=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHeO0DOeBcoOC5jQ4fL5r4wEPtOUrhHGD7qFODrUpYRj2bDjQKrhraxemnemrvXgd3Vjt1JgkxtHrGiwEK6SSeDxFrUKn1CVw46huYwg8F4q3TjzAlJORU8JraUNxVTx6BpRit3qSwYUAKjYxTIFEuq2=w1040-h780-s-no?authuser=0",
+            "title": "Fruits",
+            "description": ""
+        }
+    ]
+}

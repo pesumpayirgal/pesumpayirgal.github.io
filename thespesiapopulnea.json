@@ -1,0 +1,32 @@
+﻿{ 
+    "title": "Poovarasu பூவரசு",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Portia tree/ Pacific rose wood"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Thespesia populnea (L.) Sol. ex Corrêa"
+        },
+        {
+            "title": "Family name",
+            "description": "Malvaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Wood is used to make furniture. Grown as a hedge plant. Flowers contains flavonoids, alkaloids, tannins and anthroquinone glycosides. Plant produces major composition of flavonoids and hence possess antibacterial activity."        
+		} 
+    ],   
+	"images": [        {            
+			"url": "https://lh3.googleusercontent.com/pw/ADCreHej7UKDWzGz-wbijesdqpgOY4dhbrsnwIRpg7OxRxm5QFYYh-rVsTIwi6sS2W81OGaix-IvdJEv7MC6UAZqnNF1mOsdzY7_RCxVPOgvDubkgDRPaQYxJMAoeccUJq3W305clDKQVlXxWnTFoNhh9PCp=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfhUciKIzx6aVlFb0lJfrYAa7m5ixZA59gp84NlxV0lZkutxtIzEqc1JejNKErERGI0OFevZurx_wEEVmjkRRhQCncLdamd1QM6OcQmOTdv7Vf_Qp5Yo3O9dGNfTLoDqfpu-eyAOFtwfE57Y8uLXqfl=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

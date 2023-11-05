@@ -1,0 +1,33 @@
+﻿{
+    "title": "Senbaga maram செண்பக மரம்",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Champak tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Magnolia champaca (L.) Baill. ex Pierre"
+        },
+        {
+            "title": "Family name",
+            "description": "Magnoliaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Ornamental plant. Grown for its highly scented flowers. Floral essential oil (EO) is used for making perfumes using linalool. EO includes: linalool, methyl benzoate, benzyl acetate, cis-linalool oxide pyranoid, phenyl acetonitrile, 2- phenethyl alcohol, dihydro-ionone, -ionone, -ionone, dihydro-ionol, methyl anthranilate, indole, methyl palmitate, ionone oxime and methyl linoleate. Flower essential oil can be formulated into stick perfume preparation."        
+        }
+    ],    
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHddjB_0IklBTXoMV358iaDaKFtBKfFZFVC2C1zgaTLeYNLi-Kdl9DcfL8zN4TSrhmDTMBcn3a0JIOzA0ZBVKXIWLr0znWhs0WmCgETVaMBy6m0EujGwZSVUa3MCtdWL59co1db-0mqecuFGql3ZOoL3=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfRwvhQB9JngHnrpqOEDpA3wTe3o_MPvO6KO02dSZW05KzU3ss9M-1CAMc4houcEGfSmr9CF0vILq5jBOeOJJaKnG3H0mgf_H4V_ldrjpnnbmfHh6w_0Zddr1q2RkmHiMHbiUuLeLTG8kLp7vcnD_t_=w1040-h780-s-no?authuser=1",
+            "title": "Habit- close up view",
+            "description": ""
+        }
+    ]
+}

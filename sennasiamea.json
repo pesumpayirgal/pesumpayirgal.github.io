@@ -1,0 +1,32 @@
+﻿{
+    "title": "Chezhumalarkondrai செழுமலர்க்கொன்றை",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Kassod tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Senna siamea (Lam.) H.S.Irwin & Barneby"
+        },
+        {
+            "title": "Family name",
+            "description": "Caesalpiniaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Ornamental plant grown as an avenue tree for its yellow flowers and shade. Flowers and young fruits are used as curries in some parts of the world . It is effective in managing constipation association with a number of causes including surgery, childbirth and the use of narcotic pain relievers.. Bark and leaves decoction is used as an antimalaria drugs. The fruit is used to treat intestinal worms and to prevent convulsion in children."        
+		} 
+    ],   
+	"images": [        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdbjbJZj-oOtV7DnKglNfepGXhHaROhGIPltrmS7tqkFbAXE2nz0UiAlkUAQxzba-G6UPn0J6yJhA570YjUKgbdNJ06cDdf7fSAzD_hJFPDUiaqfjDFW7Z6_5fNtNsp91nHwjQY0E0cKrkWaq5NzVu0=w1040-h780-s-no?authuser=1",
+            "title": "Habit with floweing branch",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHeu9SDZzjK8ehDfCL2poSvNMuIcLjJk740FepXirAaLZtzM3Sr0cENavwnXCXXAPGZfGxlAw7a4VTuMafNs9otje1RX-ghVvPs5N1RN5LjczR73RpsYwfzy7uPZptc3zOp_QthUQKDbsyupxAZRkgfy=w1040-h780-s-no?authuser=1",
+            "title": "Fruits",
+            "description": ""
+        }
+    ]
+}

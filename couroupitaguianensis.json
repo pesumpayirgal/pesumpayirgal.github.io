@@ -1,0 +1,38 @@
+﻿{
+    "title": "Nagalingam நாகலிங்கம்",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Cannon ball tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Couroupita guianensis Aubl."
+        },
+        {
+            "title": "Family name",
+            "description": "Lecythidaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "State flower plant of Puducherry. Grown as an ornamental tree. It has volatile oils, keto-steroids, glycosides, couroupitone, indirubin, isatin and phenolic substances. The plant has antibiotic, antifungal, antiseptic and analgesic qualities, cure colds and stomach aches. Skin diseases are treated with leaf juice."        
+        }
+    ],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfMmnZmcI3tYnSDu5TY5_zyW8FSzBhva8zdaHEDWHCRSQz5rp8DobKzkOtfEAWCbOHI3sJMPw-CnLmY5kgYha8rNdsCdv_VUJmIQyKTjMVks13GiOjnkjKXBpQJxWHNwEnDdvNr2XAga966_gBqkjY-=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHeu-QyqsjeIMUAMDMiDtS_kc-pWZ8yDITeqe-qP-mGtCh0ZjGVhCAar4yZy3mIBE9PUqwdxtUFcOLWXQUks4x1so2YHz9PCZA4FvoylAH6qeXaXSQ8X_ONU82jslpz9u0ZQtL2ImKR3OMmrT3oyvEhA=w1040-h780-s-no?authuser=1",
+            "title": "Flower",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfcOps8F8uax_gANhfVU4pGYpqgzJGwAP6I3JAmJ-iFmE7u0Wslg1-mNIh87y-9A6n1WBaX2XXvZ7HfjpE9BMmpFxD21hQW_uDtGIHLucX3cEM7o5AK2eJankQ3Yr7FHgZpyVxn-zLSMP46q0jzsuiF=w1040-h780-s-no?authuser=1",
+            "title": "Fruits",
+            "description": ""
+        }
+    ]
+}

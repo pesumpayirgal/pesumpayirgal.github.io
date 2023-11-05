@@ -1,0 +1,33 @@
+﻿{
+    "title": "Sarakkondrai சரக்கொன்றை",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Golden shower tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Cassia fistula L."
+        },
+        {
+            "title": "Family name",
+            "description": "Caesalpiniaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Avenue tree grown as ornamental for its beautiful yellow coloured flowers. The plant contains the phytochemicals like anthraquinones, reducing sugars, proteins, alkaloids, tannins, glycosides, flavonoids, sterols, quercetin, emodin chrysophanol, physcion, etc."        
+        }
+    ],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdYs1Zzpq4m-76Jbp-Fy2nWqrycdLvjOJDtpEKRDUl8efsM6m8Puj-rA0slAh0ohuUO2oA0oYXYnfAw4777W4mvHG8BRmq_ebvgmuLoS3esYynzzI07W_RNDrlXVqpyw8P0h_psjl4ZYlSOct-fkl3N=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfxX3j0qyqaTuwea7WUdm4DGkBqdeLI_zaOvVYt5q6FmuTwRyiPBJVYqLBVcSB24-FjQx9QmLPQMXoL-0Q_3YjAOEH5E04b-oQU2_lKamCrNS8QXeaX4mRrnzViQMbvM2HXWpIrN6Ohi7MEEVUM1AhG=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

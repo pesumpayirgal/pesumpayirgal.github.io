@@ -1,0 +1,38 @@
+﻿{ 
+    "title": "Ilanthai இலந்தை",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Jujube/ red date"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Ziziphus jujuba Mill."
+        },
+        {
+            "title": "Family name",
+            "description": "Rhamnaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Medium sized thorny plant. Fruits are edible. Phytochemicals present in this plant include: alkaloids, flavonoids, terpenoids, saponin, pectin, triterpenoic acids and lipids. Jujubosides (saponin) isolated is reported to have haemolytic, sedative, anxiolytic and sweetness inhibiting properties. Cyclopeptide alkaloids found to have sedative, antimicrobial, hypoglycaemic, antiplasmodial, anti-infectious, antidiabetic, diuretic, analgesic, anticonvulsant and anti-inflammatory activities."        
+		} 
+    ],   
+		"images": [        
+		{            
+			"url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        }
+    ]
+}

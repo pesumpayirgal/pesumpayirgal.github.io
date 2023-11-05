@@ -1,0 +1,37 @@
+﻿{ 
+    "title": "Neer Maruthu நீர் மருது",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Arjuna tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Terminalia arjuna (Roxb. ex DC.) Wight & Arn."
+        },
+        {
+            "title": "Family name",
+            "description": "Combretaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "A sacred medicinal plant. Wood is commercially priced and used to make doors, windows and furniture. It is a hypocholesteremic, hypolipidemic, anticoagulant, antihypertensive, antithrombotic, antiviral, antifungal and antibacterial agent. Triterpenoids are mainly responsible for cardiovascular properties. Tannins and flavonoids are responsible for its anticancer properties."        
+		} 
+    ],   
+	"images": [        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfqv5S3Mek7FhiK5U8cqX_Iw1PB4m7o3cuAZBp0beghd-oRmNLivw0-nZkokJcDcUZJjnQxa3FPjwdjyQVK8548xOkLGn8Jg6Cr7phC_cY8uXg_PjBwVexgYiuGPB7EYbkiVC8BgPtfPMBA6lADrFGw=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHeQsAlYfGrM5YgqKKksD0CxiXDnHsn-gIotLlIB2F17Vs_JQ6xCZyStQTPvdq33N_1HL2BlSjkGHM5J0VFtrrpy7IS0otHgOTE5HYcCg9Odi5WMcydGVZnX2a9dPAsWO_H37ffAoBOu5crE8ElHrxwo=w660-h881-s-no?authuser=1",
+            "title": "Inflorescence",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHc5O-obcndT6McvvHWw65I1DU66dZtcucg8QiD-OVDUo_zxsigqWu-rULUdf-WPdV_M9H93n3thuK6LpPe8FeViFvKoX7UKtjGZNPTcOQzwlhgUkuRPzCC9eY8wp8UvVXvVeYbOU6cXZVA8SLILQXEy=w1040-h780-s-no?authuser=1",
+            "title": "Fruits",
+            "description": ""
+        }
+    ]
+}

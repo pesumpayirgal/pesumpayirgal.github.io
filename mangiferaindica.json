@@ -1,0 +1,33 @@
+﻿{
+    "title": "Ma maram மா மரம்",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Mango tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Mangifera indica L."
+        },
+        {
+            "title": "Family name",
+            "description": "Anacardiaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Fruits are edible. Wood is used to make furniture. Mango is the major source of bioactive compounds. Possesses antioxidantand antimicrobial activities. Aqueous extract of stem bark shows antioxidant, anti-inflammatory and immunomodulatory activities. In addition, anti-inflammatory, analgesic and immunomodulatory treatmentto prevent disease progress or increase the patient’s quality of life in gastric and dermatological disorders, AIDS, cancer and sthma can also be found. Phytochemicals like protocatechic acid, catechin, mangiferin, alanine, glycine, γ-aminobutyric acid, shikimic acid are present in the bark."        
+        }
+    ],    
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHciHepCV0JKPnFkOA-yXJPKEhN7XClexp7fHw72DLPgjo_IW62oxyGFhQESTYG0eDAeQ5uYYzgGDZMYdzlw0R85TfbYPdRLMasfRymFypmQ0j3Qok-tIIxsXOWeR3sbZoBr8DQrqKQJ-yZ--lno_y57=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHf6QQNxb-2ADraoseniNxvj58gR1TL1YxOKBL0iGxZECEz2-BtIbvhc7vJ3vh7N48p5RIAFa5dJ9xRI2mCqQgQAH99NgBEPjkeAhACbuNrxftc0N-mdfz6tQZRlnvUsHpne36CTaLPv3aU0Jf1jMbp3=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

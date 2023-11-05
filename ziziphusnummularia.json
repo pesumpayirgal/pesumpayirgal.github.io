@@ -1,0 +1,37 @@
+﻿{ 
+    "title": "Ilanthai இலந்தை",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Wild jujube"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Ziziphus nummularia (Burm.f.) Wight & Arn."
+        },
+        {
+            "title": "Family name",
+            "description": "Rhamnaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Medium sized thorny plant. Fruits are edible. Prevention of dysentery and colic, mental retardation, preventing frequent attacks of colds and influenza, treating diarrhoea,  are some of its traditional medicinal uses. It is also used for  wound healing, ulcers, pharyngitis, bronchitis, anaemia,  irritability, hysteria, burns, fevers and as a nervous tonic.  Phytochemicals present in this plants include: Amphibin-H ,  nummularogenin, nummularine-A,-B,-C, -M, -O, -N, -P and -T, Zizynummin , ziziphine-N –O, -P, and  -Q mucronin-D."        
+		} 
+    ],   
+	"images": [        {            
+			"url": "https://lh3.googleusercontent.com/pw/ADCreHcPw8KN7Qku2Ko5i2ETl8_mfUHkn9Er8x3lDTs2ZHyBLmLxrEvfAXdiB8NQDrfEzjmFYaEwOowczex96tJbjd665zTMuqZEkd8RWgxpbl3exB0WUxLuRUH4cmJ3wXiDs_gEazELelTm-vSnObniCppb=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHd_1h4ee6YPlgueD0srCOZ6M2yA4CgYZcX9x_Wg2sO_5f8bD9egsMG4L5ciM4w3RYErWl85FwxiFg7yzeEeorpCNtJM1LNot8PsCHcE-R0JByft4cSMT8g-9d-k3owSLnxR-s0nZriVMR1ejgLZ6-5-=w1040-h780-s-no?authuser=1",
+            "title": "Flowers",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHevcZ-Us17oaSgXQq0-gOrPplVpr3USFgXF8gyd2DxXHqDdId4NYzqdP_zgeGFVGeRj17r8tYCEZn2WX78hFsg_1CWKDH9-zA3ayI2XBR1W5ZkjIoTFCfiIUAaPr1WM0k_B_aYBHy9anvb6Hp2NrXOM=w1040-h780-s-no?authuser=1",
+            "title": "Fruits",
+            "description": ""
+        }
+    ]
+}

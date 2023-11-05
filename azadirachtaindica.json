@@ -1,0 +1,33 @@
+﻿{
+    "title": "Vembu வேம்பு ",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Neem"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Azadirachta indica L."
+        },
+        {
+            "title": "Family name",
+            "description": "Meliaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Wood is used for making furniture. Leave are medicinally useful. Extracts have been shown to work from anywhere from insect repellent, to supplements to lower inflammation, diabetic control, and even to combat cancer. these extracts had free radical scavenging, detoxification, DNA repair, cell cycle alteration, programmed cell death mitigation and autophagy, immune surveillance, anti-inflammatory, anti-angiogenic, and anti-metastatic activities and the ability to modulate of various signalling pathways."
+        }
+    ],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHefUO8_MvCpzpyG3HI0rrOXEWlw1OwCJ-6JYvOLslEJkKP9KjoVRDR_nVmhm7na9vMyiNPMH6CbhmJjy7VYJTIZva7anekz7jaCEGqEFIdirpg4x0jWt3rpaiXjt4fOKHdsKZLVo1rkdqSf1I_J-E9Z=w1040-h780-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHciONgWoarcMFxLF_Lc6_xJR1EljM1Q4V1hwPw2UlOxvT8YJ2o6FfjQbYeYIIO5lkE-yCeaRT3AgKVr3ed0zb1_Rg2UMUGqeXop1_Mgo3lVUuSqUbwE64Qr4UzpxG6BYb-4RSdAouRkV6sdiw5967k4=w1040-h780-s-no?authuser=1",
+            "title": "Close up of branches",
+            "description": ""
+        }
+    ]
+}

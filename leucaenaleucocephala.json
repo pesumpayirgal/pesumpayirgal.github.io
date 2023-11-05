@@ -1,0 +1,38 @@
+﻿{
+    "title": "Savunthal maram சவுந்தல் மரம்",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "River tamarind"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Leucaena leucocephala (Lam.) de Wit"
+        },
+        {
+            "title": "Family name",
+            "description": "Mimosaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Leaves are used as nutritious fodder for cattle. Provides firewood, timber, green manure, shade and control soil erosion.  Secondary metabolites present include phylobatanins, alkaloid, cardiac glycosides, tannins, flavonoids, saponins and Glycosides."        
+        }
+    ],    
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfYInbNy9_EAGLUuUfzDnHgo9aue6z0osowWhSKqZGEmGZrGEvHzqbRmn5-eFqZVIY51RvipHj9vqHlD8ZfwV9obJXmd08EKMtf9O5klimgech5JuMHiaP6dhYLzWTRdCJ-_pWXmA08hQdO8PySq2n4=w660-h881-s-no?authuser=1",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdCZA5PmXi68EJuJTYbz87Y6qfvi5VYZT-ndYUZ6IboqZ3mUXXoo5mkwPJSmMN2EkW1yV-vLKrCDhlF_QCTOe-6PrMNotXKzwTO5Nxd9NSKSFSWF7BVluz4_jt-45h15y3ee2i1aZF5YBlYdzpP3vlq=w660-h881-s-no?authuser=1",
+            "title": "Inflorescences",
+            "description": ""
+        },
+        {
+            "url": "https://cdn.wikifarmer.com/wp-content/uploads/2023/03/Mango-Yield-Harvest-and-Post-Harvest-Handling.png",
+            "title": "Mango Yield Harvest 2",
+            "description": "Another image of mango yield harvest and post-harvest handling"
+        }
+    ]
+}

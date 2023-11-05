@@ -1,0 +1,38 @@
+﻿{
+    "title": "Palasu",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Powder Puff"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Callistemon sp."
+        },
+        {
+            "title": "Family name",
+            "description": "Myrtaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "An ornamental plant. Brightly red coloured flowers appear as a bottle brush. The plant has antibacterial, antifungal, antioxidant activities and other pharmaceutical and insecticidal properties."        
+        }
+    ],
+    "images": [
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+﻿{
+    "title": "Odhiya maram ஒதியமரம்",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Indian ash tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Lannea coromandelica (Houtt.) Merr."
+        },
+        {
+            "title": "Family name",
+            "description": "Anacardiaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Wood is commercially useful. Bark is medicinally useful. Tribal in India treat various diseases: body pains, tooth ache, stomach ache, ulcers, sexual impotency. Flavonoids & Tannins, Terpenoids, Gums, and Polysaccharides are present."        
+        }
+    ],    
+    "images": [
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        },
+        {
+            "url": "",
+            "title": "",
+            "description": ""
+        }
+    ]
+}

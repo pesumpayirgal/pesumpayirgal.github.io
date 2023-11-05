@@ -1,0 +1,33 @@
+﻿{
+    "title": "Panneer poo/ Maramalli பன்னீர் பூ/ மரமல்லி",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Tree jasmine/ Indian Cork Tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Millingtonia hortensis L.f."
+        },
+        {
+            "title": "Family name",
+            "description": "Bignoniaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Ornamental plant grown on roadside and parks. Produces very fragrant white flowers. Crude extract contains active principles which inhibit cell proliferation and induce apoptosis on RKO cells (poorly differentiated colon cancer cells) by decreasing the expression of antiapoptotic protein Bcl-xL, p-Bad and p-Akt (involved in survival of cancer cells). Leaves contain saponins, alkaloids, flavonoids and phenols- responsible for the antioxidant andantibacterial activities."        
+        }
+    ],    
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHeeFVEXaIdKpVQ4gp4JCWw6qEUYR4GBeztwbq0HJE3cYCIlFAiDNfjGGmIbSGJDk00dSC4UVfbawALrToGkPhEhrA0BZkFfqeJ-x6AyzjrUpysNJgrNBCf90DjmMg7V__zXEYaWpHYYeoRvZ6_EyGWi=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHeF69M6zQ8W915kcop6mcJVMLR3enLtt0sEOM7MeqHP3HrkE6YCV4GG09IUXgk4G2zxTAeeQEJsb8MPFKOTjRGzk2zPE3Ig_8nxaGqZLDsBq0Icvko7Mh3qXl7jaWYgW2FqMdeC4fR45Koeb6XF5yit=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

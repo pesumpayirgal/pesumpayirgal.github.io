@@ -1,0 +1,38 @@
+﻿{
+    "title": "Nettilingam",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "False Ashoka tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Monoon longifolium (Sonn.) B.Xue & R.M.K.Saunders"
+        },
+        {
+            "title": "Family name",
+            "description": "Annonaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "An avenue tree. Grown along road sides, parks, etc. Used as an antipyretic agent in traditional systems of medicine. Bark and leaves contain antimicrobial activity, cytotoxic function, antiulcer activity, hypoglycemic activity, and hypotensive effect. Following phytochemicals are present: contains O-methylbulbocapnine-N-oxide, polyfothine, N-methylnandigerine-N-oxide, oliveroline-N-oxide, pendulamine A,N-pendulamine B, 8-oxopolyalthiane, 16-oxo-5, 13-halimadien-15-oic acid,  16-Oxo-3, 13-clerodadien-15-oic acid,  6-hydroxycleroda-3, 13-dien-16, 15-olide."        
+	    }
+    ],    
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHcZidvT-uFGiDIDdU1_pOh0bZ5j4uwfJUKk6XecSdn0q1xFGClfZGZnDMR-qb3ux02olGnfN5ykwsggWLITRWZpo9Dc8iW9jBwU1v8El3OCKsp8HibBEMMVHV3vjb0-NKwmQbqtrFOgqT9MfqmfFamK=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHeEKow9YCc8kNWs8xw_WivxXHv9Q0-Z9a7mGQfzgjf2_Gnt7HVaPEML6dodDcZ50ZE5LSiN-W5w5gt075erlhwIJRLbGvLoCEAAAqXl5CpRP3aQU6suW6AelPkRr0fc3ppsIYIqX1DVVnpElu_xT0_L=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdOlTHPG4LTKtFoMPGUXfbFFcKcA7cX4C3oD7_sgC15goU1VX-kiJheZ4pyE2kWCcpfkZmFenIZ8Do9mU8jkxYZ0JpOkmEonsNQYUxF_pw5I0iqGhFQP-u5pvB-SrGBCFNuRWDbA4A37UB37_5iHa9g=w1040-h780-s-no?authuser=1",
+            "title": "Fruits",
+            "description": ""
+        }
+    ]
+}

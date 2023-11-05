@@ -1,0 +1,37 @@
+﻿{ 
+    "title": "",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Tung tree/ China wood oil plant"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Vernicia fordii (Hemsl.) Airy Shaw"
+        },
+        {
+            "title": "Family name",
+            "description": "Euphorbiaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Flower is pink, purple with red throat, Woody pear-shaped, Hard. Tung tree oil hasbeen used in the production of paints, dyes,inks, and various specialty products for decades.  Leaf triterpene compounds, 1α,3β,8α,9β,10α,13α,14β)-9,10-dimethyl-25,26-dinorolean-5-en-1,3-diol and (1α,3β,6β)-olean-12-en-1,3,6 triol, and daturadiol display moderate cytotoxicity against two or more human cancer cell."        
+		} 
+    ],   
+	"images": [        {            
+			"url": "https://lh3.googleusercontent.com/pw/ADCreHd79H3G_XSeewRfEajj8nZFLtiXD109fEoQ9WlaF_bBDyTS1vMiknzLGu-MimZtzjsWnK5TG461tDuBpvz9SFyVcIjl5Y3mQru8uiHxkPmhKVERWi3Ch8epXNxl1luVo0oMCAjDXnGOcwWFaTYnHawY=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://photos.google.com/u/1/share/AF1QipNdHGnqq69Teqxb8PH18Z5wQhQheF13959PZSsPnPup8xJKRXo8LXzYupOQXl1Y_g/photo/AF1QipMdtCGn6hqGL6-uLdqRKbFYeJ62f3XG11xcHSkR?key=Wm9lUHFwWWNhd2k5UU1DMDdGTVE5ckxpcTF1ejR3",
+            "title": "Leaves",
+            "description": ""
+        },
+        {
+            "url": "https://photos.google.com/u/1/share/AF1QipOAcXaJT0WQ45ptzvfP_tQ5UQOS_rr2VZzyG18LwO0SmwVcdLxGW6wi1ygeM7Dfhg/photo/AF1QipPGYRhTGHZT45MWO3lyQvPSlLv_cGGfjnlQ3n8L?key=OXo2ZlFpOUN2elgwRU1yUVdHQzlmWE5uWWdhUzJ3",
+            "title": "Single leaf",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+﻿{ 
+    "title": "Manjarali மஞ்சரளி",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Yellow trumpet bush"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Tecoma stans (L.) Kunth"
+        },
+        {
+            "title": "Family name",
+            "description": "Bignoniaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Ornamental plant (shrub) grown for its beautiful golden yellow flowers. In traditional Mexican medicine it has been in the use to treat hyperglycemia, gastrointestinal and urinary tract disorders, jaundice, toothaches, headaches, colds, skin infections, and scorpion, snake, and rat bites. "        
+		} 
+    ],   
+	"images": [        {            
+			"url": "https://lh3.googleusercontent.com/pw/ADCreHe9IfgEz8Ox85dj7bNzCVXMf1TNTaIzdSO-KO85bb_L98DmLpWN0mjvApZGAId9x7HxW5jFmd96SPTQKd7biIkpVUnTIGHMpkMC4GSa6xccFaKsUnD2R0HpJn_nuj569rDRyxwALffHWn2V6XeDoI7f=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHf5wqxK2oPsCwkUCMPMntBCKRpjzjMQcaWQKSic688-ayhOFrLj7OEvqmKdG-3FBsCrLFghNwwTsjS0Kr1CzERa2qrqeUhu2fuENe6oBePJ3yWEJtmoZh1s6GFVf8k4oeileoKXoCNcsq73m0ojtsfd=w1040-h780-s-no?authuser=1",
+            "title": "Flowers",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+﻿{
+    "title": "Arasa maram அரசமரம் ",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Peepul tree"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Ficus religiosa L."
+        },
+        {
+            "title": "Family name",
+            "description": "Moraceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Fruits are edible. Grown for its shade. Used in traditional systems of medicine: Ayurveda, Siddha, Unani, Homeopathy. Barks of stem, root, aerial roots, vegetative buds, leaves, fruits and latex are used in diabetes, vomiting, burns, gynaecological problems, dysentery, diarrhoea, nervous disorders, tonic and astringent. Barks contain tannins, saponins, flavonoids, steroids, terpenoids and cardiac glycosides."        
+        }
+    ],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdeEKLXvis9oj-6COyhFaIqSabaVfEsno6-rZbzhDtfcZ74_JISICERdbNegGTcMMgemiECv5pOg-9BqCRkhzOK3KTaXF1v4864kFADFOxpTb64vtwswhfAk72kKiuYZDWoeBrOfN_MAbrC-c-M7ft8=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHen1sGwO0kWvvMO2AXtztDlZ7IzCH_60eyA5mjs3beLvvlgwNON9UHo2avqCd0RMBoeXJJ8To3YnO-kcotuA-jmHINHxGPlCCzyOqOvN60K_vjILYhWrfpNBGT_RRaafTiMgTBJ0vp1IOdfben2jOyj=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

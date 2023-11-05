@@ -1,0 +1,38 @@
+﻿{
+    "title": "-",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Red Powder Puff"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Calliandra haematocephala  Hassk."
+        },
+        {
+            "title": "Family name",
+            "description": "Mimosaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "The bark is medicinally useful. The extract contains presence of β-sitosterol, stigmasterol, lupeol and friedelin (Pentacyclic triterpenoid). In addition, the extract posses the analgesic; anti-inflammatory and anti-arthritic activities in vitro."        
+        }
+    ],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHebPqH8z6XigmHs0xMfvGLoZotCFI5gDtE9P1jaBDotqdsKpPcH3g0sqjFXKPdTO9BbSgr8fG2_RMfmiCbZ4jD-e56YU6iINCwL4ve2za-UmmYwiBX3vZ7Fg5vk1q6P0SuN1jVIGvvT3mVby-ljYa6w=w660-h881-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdsif8gc6pvRJkoDzt7cfE3-ATxvw-twOY6VZGRq5Feqy9M_HVhBnk719P-dCz7IFgjv-9wG_EHV43v4pjaDNhD9LvRlL5QqBD-noDUVrB1iPe73nBw4-NrcGTwam9qL2D6WruoI_uaY-R7NSuyLuq3=w1040-h780-s-no?authuser=1",
+            "title": "Young inflorescence",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHd5fZQUM_LRzx0ZY5xZn_TAnjIRvjerJ69dbg43uQBmpFAHPFNr6mTtXDjNjPRU85TG49n1Bnn42wS0RD0blk9Fw-FK1B6cVemHHbsfBSOEwit0LEXFe-1pErhO_yCir9vK3xzilORc5fZS0QVeKJRL=w1040-h780-s-no?authuser=1",
+            "title": "Mature inflorescence",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+﻿{
+    "title": "Iluppai இலுப்பை மரம்",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Madhuka"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Madhuca longifolia (J.Koenig ex L.) J.F.Macbr."
+        },
+        {
+            "title": "Family name",
+            "description": "Sapotaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "Used for treating skin diseases, rheumatism, headache, chronic constipation, piles, haemorrhoids and sometimes used as an emetic and galactagogue. Its oil isused for manufacturer of laundry soaps and detergent, and also used as cooking oil in various tribal region of India. It contains sapogenins, triterpenoids, steroids, saponins, flavonoids and glycosides. Wood is very hard and good to make furniture. Flowers are a source of honey. Fruits are eaten by bats."        
+        }
+    ],    
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHe4VipQyEs2sxx3PwmsSZiYkCjbjHmbTZNh4t-yEG7CX0ZGmjmVvh93b-MBAPSrJAn9TPWsGRlJVYUj95jlwznZdWQ1qetZVFeN1TMkHwseCM2gLgdW7ZgONMu4Si7OThZgSO-i5lCDvA5ZSAIKwNF9=w1040-h780-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfLglKeBcNmmTGMWHZXj-HIbINVC0i097Nn5qLaLVEssfDTF-PSL4xONodjgDUpRd97csCnlCnLOlP6goXgc9eVPepp-eBrCG0WVdHhCCbYyDEmtOW0O3GiTLJICpzKXxKJFzmCIH38G1LX3KoSLuz3=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "title": "Arali அரளி",
+    "content": [
+        {
+            "title": "English Name",
+            "description": "Oleander"
+        },
+        {
+            "title": "Botanical name",
+            "description": "Nerium oleander L."
+        },
+        {
+            "title": "Family name",
+            "description": "Apocynaceae"
+        },
+		{
+            "title": "Uses",
+            "description": "An ornamental plant grown for its beautiful pink flowers. It is a poisonous plant which contains toxic oleandrin and oleandrigenin-cardiac glycosides."
+        }],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHfh9KFiZ7CQbaehGV3qlXGuENZr7GPsYcYekwf8EdZc8z442lACxQxePPiLvUBS1S7LAvkovUP1g2T0VRnoOki_NPMmZRqJqbQ5L_-NozISlrziGxDpwzovfW1WAuXXBElXfIHkOHbmXOXTgVduFUkn=w1040-h780-s-no?authuser=1",
+            "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdo89PhdlUXRD34QGbOkX6pA8RXAl0fCCTeLhKMPGkvh4OjouPLL1kRwVJKicjQz4zhkz5bDFz_RYRnWxp2FM7T05Li-iUl74-283zlqUFkrpfMxEzveZJKwAPf6QqmzXy4cpQ6LaDF58zom2FgJF6p=w1040-h780-s-no?authuser=1",
+            "title": "Leaves",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdfU1XK55SV3ek58IWgxpu49mX60CceARXxSJKddpKTB53P7Qmp7Z-3zdGSyJ1H4ErlwIw0DAWH9rOn0LaiqkUxaqk_rkRvNO4dU7F_3jEp75udvccQOCyzo45pjamsoYB2yHGEe-eSBM7BTxwjZvbW=w1040-h780-s-no?authuser=1",
+            "title": "Inflorescence",
+            "description": ""
+        }
+    ]
+}

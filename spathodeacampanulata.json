@@ -1,4 +1,4 @@
-﻿{
+{
     "title": "Patadi பட்டடி",
     "content": [
         {
@@ -15,12 +15,17 @@
         },
 		{
             "title": "Uses",
-            "description": "Beautiful reddish flowers are produced. Grown as an ornamental plant. Useful in checking soil erosion. Wood presents a good source for paper industry. Bark is useful in ulcer and skin related diseases as well finds use in gastrointestinal disorders."        
-		} 
-    ],   
-	"images": [        {
-            "url": "https://lh3.googleusercontent.com/pw/ADCreHc-R8W7ARtV37wVsMyF2gw_gjyNZ8k_BsOIrG7TckXE_57b7egFQPZaGL5wQxyHMHE9P_0sg98k98JlCVe9WiijboNXIk3CTIaWPjjRTPO7p0TSkYGA9rQPA7Bdl-lyZuH4JvVVEjrj1rGBnTeDpv2f=w660-h881-s-no?authuser=1",
+            "description": "Beautiful reddish flowers are produced. Grown as an ornamental plant. Useful in checking soil erosion. Wood presents a good source for paper industry. Bark is useful in ulcer and skin related diseases as well finds use in gastrointestinal disorders."
+        }],
+    "images": [
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdQk9Sfn8F6JaqXl1Mj4Z9CI_uQOr6pxsvJcGQPe-2rvUtbmQ_8Y6sSkGqn3MEq2aHZLuzU2c3QKzwltz1tiFm-E1Zmschp02rX_sjw5AMWi464ukSex1SYVvucA5lKjdExGgxXuxFbtvDiichBJKma=w1175-h881-s-no?authuser=1",
             "title": "Habit",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHcIysmTYFVDMZYjj9cI1d3p9OaacjcJ8DUAUNKGdUFKMgrRtKJO9mSYxJhIQ1ow3X5xA69zKPmBRI2jOX_PjlCheb1bJZNA7DRfFPK3fRseUimpLALKtjwLPqDQPJn44XFkh6c4bpZf4UzeqjH3Rpty=w512-h384-s-no?authuser=1",
+            "title": "Flower",
             "description": ""
         },
         {

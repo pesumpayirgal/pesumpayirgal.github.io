@@ -1,4 +1,4 @@
-﻿{
+{
     "title": "Aechinaruvizhi ஏச்சி  நறுவிழி",
     "content": [
         {
@@ -15,9 +15,8 @@
         },
 		{
             "title": "Uses",
-            "description": "An ornamental plant. Phytochemicals present in this plant include: alkaloids, flavonoids, phenols, saponins, tannins, steroids, terpenoids."        
-        }
-    ],
+            "description": "An ornamental plant. Phytochemicals present in this plant include: alkaloids, flavonoids, phenols, saponins, tannins, steroids, terpenoids."
+        }],
     "images": [
         {
             "url": "https://lh3.googleusercontent.com/pw/ADCreHdjT4SOM_ZtkUBrNnbHWpl_53tu3pZMGyoXe9Y_4mlwL1za2OmZWmjheA9sHNdAmQz-2VBwAobkkGE1TXY8nPSSyL8qdETBQK0qtehijHROHU91gk8ZNuhCZaKeynkqQbzenKCQHV_R3R_tGrcfsEst=w660-h881-s-no?authuser=1",
@@ -26,7 +25,12 @@
         },
         {
             "url": "https://lh3.googleusercontent.com/pw/ADCreHdlT5xWAUYUpqbIBcBqIItqdqIB23R91dGZB2CNR0aVT_bxonTXCF60V-Wje7U-EkuPMMCtq85N60SA_06klyhMh6U4AeyNKc7jpyHmcYr6I2MflliFqioyidqVDhVbiX2gEf3oDw3NRxnaz8qJE4Kj=w1040-h780-s-no?authuser=1",
-            "title": "Flower",
+            "title": "Leaves",
+            "description": ""
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/pw/ADCreHdyfzU3qpJH_o85o6hRlHtDiP_q_EXIkxvv_nxOFD3xQCq_8lTsrnsBBtr-mRCk-UUaBIEHlQkolVNH-iFzN77vJjL_AkxAEvfOHD4mCBcK844PdXOaqnTY-URFrOzkJGNjoIpt6frhMdJoUvjx-sDW=w1040-h780-s-no?authuser=0",
+            "title": "Inflorescence",
             "description": ""
         }
     ]
